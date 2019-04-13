@@ -2,7 +2,7 @@
 A simple, fast, and keyboard-centric way to pick emoji, kaomoji, and special characters
 under X and Wayland.
 
-![A sample of Rofi Charpicker displaying a search for cakes](./screenshots/charpicker sample.png)
+![A sample of Rofi Charpicker displaying a search for cakes](/screenshots/charpicker sample.png)
 
 ## Installing Charpicker
 
