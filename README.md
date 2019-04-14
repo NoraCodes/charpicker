@@ -10,7 +10,8 @@ You need to have `rofi` and `xdotool`. `rofi` handles selection and `xdotool` ac
 enters the characters.
 
 Then simply clone or download the repository and point a keyboard shortcut (I use Super+I)
-at the script.
+at the script (`charpicker.sh`). If you only need a script to print the
+selected character to the standard output, use `charpickerprint.sh`.
 
 ## Using Charpicker
 
@@ -26,10 +27,12 @@ skin tone" gives 🧒‍🏼.
 Rofi Charpicker uses a simple flat file to store characters. The format of each line is:
 
 ```text
-keywords    :character
+keywords<tab>character
 ```
 
-Everything after the `:` is typed, except trailing spaces (allowing kaomoji).
+where `<tab>` is the actual tab character.
+
+Everything after the tab character is typed, except trailing spaces (allowing kaomoji).
 This file is `special_character_list`. It was compiled partially with a machine
 and partially by hand (with help from mbfraga) and contributions are much appreciated.
 

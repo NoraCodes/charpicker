@@ -63,7 +63,7 @@ configuration {
     highlight:     underline bold #ffffff;
 
     transparent: rgba(0,0,0,0);
-    font: "Ubuntu Mono 16";
+    font: "Ubuntu Mono 14";
 }
 #window {
     location: center;
