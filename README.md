@@ -36,3 +36,5 @@ Everything after the tab character is typed, except trailing spaces (allowing ka
 This file is `special_character_list`. It was compiled partially with a machine
 and partially by hand (with help from mbfraga) and contributions are much appreciated.
 
+You can override the provided theme with the
+`~/.config/charpicker/theme.rasi` file.

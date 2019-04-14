@@ -8,9 +8,14 @@ theme="arthur-c.rasi"
 character_list="special_character_list"
 character_list_rofi="special_character_list.rofi"
 character_list_chars="special_character_list.symbols"
+user_theme=~/.config/charpicker/theme.rasi
+
+if [ -f "$user_theme" ]; then
+    theme="$user_theme"
+fi
 
 start_rofi () {
-    rofi -dmenu -i -sync -theme $theme -p "sym:" -format d
+    rofi -dmenu -i -sync -theme "$theme" -p "sym:" -format d
 }
 
 compile () {
