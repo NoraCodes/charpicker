@@ -33,8 +33,14 @@ keywords<tab>character
 where `<tab>` is the actual tab character.
 
 Everything after the tab character is typed, except trailing spaces (allowing kaomoji).
-This file is `special_character_list`. It was compiled partially with a machine
-and partially by hand (with help from mbfraga) and contributions are much appreciated.
+
+The project's provided file is `special_character_list`. It was compiled
+partially with a machine and partially by hand (with help from mbfraga)
+and contributions are much appreciated.
+
+You can also have your own special character list:
+`~/.config/charpicker/special_character_list`. The symbols in this file
+are added to the provided symbols.
 
 You can override the provided theme with the
 `~/.config/charpicker/theme.rasi` file.
