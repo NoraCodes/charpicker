@@ -1,2197 +1,2187 @@
-alpha   ga     :α
-beta    gb     :β
-gamma   gg     :γ
-delta   gd     :δ
-epsilon ge     :ε
-zeta    gz     :ζ
-eta     gh     :η
-theta   gj     :θ
-iota    gi     :ι
-kappa   gk     :κ
-lambda  gl     :λ
-mu      gm     :μ
-nu      gn     :ν
-xi      gx     :ξ
-omicron go     :ο
-pi      gp     :π
-rho     gr     :ρ
-sigma   gs     :σ
-tau     gt     :τ
-upsilon gu     :υ
-phi     gf     :φ
-chi     gq     :χ
-psi     gy     :ψ
-omega   gw     :ω
-
-
-Alpha   gA     :Α
-Beta    gB     :Β
-Gamma   gg     :Γ
-Delta   gD     :Δ
-Epsilon gE     :Ε
-Zeta    gZ     :Ζ
-Eta     gH     :Η
-Theta   gJ     :Θ
-Iota    gI     :Ι
-Kappa   gK     :Κ
-Lambda  gL     :Λ
-Mu      gM     :Μ
-Nu      gN     :Ν
-Xi      gX     :Ξ
-Omicron gO     :Ο
-Pi      gP     :Π
-Rho     gR     :Ρ
-Sigma   gS     :Σ
-Tau     gT     :Τ
-Upsilon gU     :Υ
-Phi     gF     :Φ
-Chi     gQ     :Χ
-Psi     gY     :Ψ
-Omega   gW     :Ω
-
-accent a a'   :á
-accent e e'   :é
-accent i i'   :í
-accent o o'   :ó
-accent u u'   :ú
-n tilde  n~   :ñ
-enie        :ñ
-ae          :æ
-AE          :Æ
-diameter    :ø
-
-
-o with stroke   null set    /o\ \o/    : ø
-thorn                       : þ
-inverted exclamation mark ! : ¡
-inverted question mark  ?   : ¿
-em-dash    ---              : —
-interrobang !?  ?!  sarcasm : ‽
-
-math union                        : ∪
-math intersection                 : ∩
-math proportional                 : ∝
-math not                          : ¬
-math not equal  !=  /=   neq      : ≠
-math equivalence                  : ≡
-math equal by definition          : ≜
-math approximately  ~=            : ≈
-math congruent      ~=            : ≅
-math greater equal                : ≥
-math less equal                   : ≤
-math much less                    : ≪
-math much more                    : ≪
-math or                           : ⊕
-math contains                     : ∈
-math plusorminus                  : ±
-math for every / for all          : ∀
-math there exists                 : ∃
-math there does not exists        : ∄
-math therefore                    : ∴
-math because since                : ∵
-math minusorplus                  : ±
-math middle dot                   : ·
-math multiplication     xx        : ×
-math division                     : ÷
-math gun                          : ¬
-math perpendicular                : ⊥
-math x variable                   : x
-math infinite                     : ∞
-88                                : ∞
-math composition                  : ∘
-middle hollow dot                 : ∘
-math vertical line                : |
-math hermitian                    : †
-math proper subset                : ⊂
-math subset                       : ⊆
-math not subset                   : ⊄
-math not superset                 : ⊅
-math symmetric difference         : ⊖
-math element of                   : ∈
-math not element of               : ∉
-math empty set                    : Ø
-math circled plus oplus           : ⊕
-math implies                      : ⇒
-math equivalent                   : ⇔
-math equivalent                   : ↔
-math if and oly if                : ↔
-math defined as                   : ≔
-math integral                     : ∫
-math closed line integral         : ∮
-math closed surface integral      : ∯
-math closed volume integral       : ∰
-//                                : ⁄
-fraction slash                    : ⁄
-
-arrow up                  : ↑
-arrow down                : ↓
-arrow left  <-            : ←
-arrow right ->            : →
-arrow left and right lr   : ⇆
-arrow right and left rl   : ⇄
-arrow return              : ↵
-arrow downright           : ↘
-arrow downleft            : ↙
-arrow upright             : ↗
-arrow upleft              : ↖
-arrow up and down         : ↕
-arrow left and right      : ↔
-check mark                : ✔
-ok                        : ✔
-horizontal ellipsis ...   : …
-mid ellipsis              : ⋯
-vertical ellipsis         : ⁝
-tricolon                  : ⁝
-vertical three dots       : ⁝
-vertical four dots        : ⁞
-left double quote ldq     : “
-right double quote rdq    : ”
-right quote rq            : ’
-
-box drawing 1             : ░
-box drawing 2             : ▒
-box drawing 3             : ▓
-box drawing 4             : █
-
-line drawing               : └
-line drawing               : ─
-line drawing               : ┘
-line drawing               : │
-line drawing               : ┼
-line drawing               : │
-line drawing               : ┌
-line drawing               : ─
-line drawing               : ┐
-line drawing               : ┴
-
-line drawing               : ┴
-line drawing               : ├
-line drawing               : ┤
-line drawing               : ┬
-
-
-double line drawing        : ╚
-double line drawing        : ═
-double line drawing        : ╝
-double line drawing        : ║
-double line drawing        : ┼
-double line drawing        : ║
-double line drawing        : ╔
-double line drawing        : ═
-double line drawing        : ╗
-
-double line drawing        : ╩
-double line drawing        : ╠
-double line drawing        : ╣
-double line drawing        : ╦
-
-left bracket              : ｢
-right bracket             : ｣
-left japanese quote       : ｢
-right japanse quote       : ｣
-right angle bracket       : 〉
-left angle bracket        : 〈
-left corner bracket       : 「
-right corner bracket      : 」
-fat left corner bracket   : 『
-fat right corner bracket  : 』
-
-
-geometric black square               : ■
-geometric white square               : □
-geometric medium black square        : ◼
-geometric medium white square        : ◻
-geometric small black square         : ▪
-geometric small white square         : ▫
-geometric black triangle up          : ▲
-geometric white triangle up          : △
-geometric small black triangle  up   : ▴
-geometric small white triangle  up   : ▵
-geometric black triangle right       : ▶
-geometric white triangle right       : ▷
-geometric small black triangle right : ▸
-geometric small white triangle right : ▹
-geometric black triangle left        : ◀
-geometric white triangle left        : ◁
-geometric small black triangle left  : ◂
-geometric small white triangle left  : ◃
-geometric black triangle down        : ▼
-geometric white triangle down        : ▽
-geometric small black triangle down  : ▾
-geometric small white triangle down  : ▿
-geometric black diamond              : ◆
-geometric white diamond              : ◇
-geometric black-in-white diamond     : ◈
-geometric black-in-white circle      : ◉
-geometric black circle               : ●
-geometric white circle               : ○
-geometric dotted circle              : ◌
-
-geometric circle left half black          : ◐
-geometric circle right half black         : ◑
-geometric circle bottom half black        : ◒
-geometric circle upper half black         : ◓
-geometric circle upper right quarter black   : ◔
-geometric circle all but left quarter black  : ◕
-geometric upper left circular arc    : ◜
-geometric upper right circular arc   : ◝
-geometric lower right circular arc   : ◞
-geometric lower left circular arc    : ◟
-geometric upper half circular arc    : ◠
-geometric lower half circular arc    : ◡
-
-geomteric black right pointer        : ►
-geomteric white right pointer        : ◄
-
-
-b blood type    b button Negative Squared Latin Capital Letter B : 🅱️
-a blood type    a button Negative Squared Latin Capital Letter A : 🅰️ 
-
-
-frog                      : 🐸
-cow                       : 🐮
-cow2                      : 🐄
-pig                       : 🐷
-turtle                    : 🐢
-cat                       : 🐈
-duck                      : 🦆
-dog                       : 🐶
-snowman                   : ⛇
-pizza                     : 🍕
-pizza2                    : 🍕
-poop                      : 💩
-
-
-smiling face        : ☺
-frowning face       : ☹
-smile               : 😃
-tongue out          : 😛
-wink                : 😉
-surprise            : 😲
-scared fear         : 😨
-not amused serious  : 😐
-crying              : 😢
-cry laugh           : 😂
-upside down smile   : 🙃
-solid star          : ★
-hollow star         : ☆
-circled hollow star : ✪
-yin yang            : ☯
-100 points          : 💯
-okay ok             : 👌
-drops water         : 💦
-eggplant            : 🍆
-
-
-circ               : °
-degrees            : °
-oo                 : °
-angstroms          : Å
-ao0                : Å
-tm                 : ™
-trademark          : ™
-pound              : £
-yen                : ¥
-cents              : ¢
-copyright          : ©
-CO                 : ©
-registered         : ®
-CR                 : ®
-micron    ,u,      : µ
-paragraph          : ¶ 
-super pi           : ℼ
-euler              : ℯ
-italic n           : 𝒏
-spinal tap         : n̈
-celcius            : ℃
-farhenheit         : ℉
-biohazard          : ☣
-radioactive        : ☢
-
-heart              : ❤
-broken heart       : 💔
-side heart         : ❥
-
-
-sup1        :¹
-sup2        :²
-sup3        :³
-sup4        :⁴
-sup5        :⁵
-sup6        :⁶
-sup7        :⁷
-sup8        :⁸
-sup9        :⁹
-sup0        :⁰
-sub1        :₁
-sub2        :₂
-sub3        :₃
-sub4        :₄
-sub5        :₅
-sub6        :₆
-sub7        :₇
-sub8        :₈
-sub9        :₉
-sub0        :₀
-
-superscript n         : ⁿ
-superscript i         : ⁱ
-superscript theta     : ᶿ
-
-subscript minus -     : ₋
-subscript a           : ₐ
-subscript e           : ₑ
-subscript o           : ₒ
-subscript x           : ₓ
-subscript e inverted  : ₔ
-subscript h           : ₕ
-subscript k           : ₖ
-subscript l           : ₗ
-subscript m           : ₘ
-subscript n           : ₙ
-subscript p           : ₚ
-subscript s           : ₛ
-subscript t           : ₜ
-
-bto  batio3           :BaTiO₃
-tio2                  :TiO₂
-e=mc2                 :E = m·c²
-
-
-kaomoji_hug_r1              : (っ´ω｀)っ
-kaomoji_hug_l1              : ⊂(´Д`⊂)
-kaomoji_hug_r2              : (つﾟ⊿ﾟ)つ
-kaomoji_hug_r3              : (っ^_^)っ
-kaomoji_hug_r4              : (⊃｡•́‿•̀｡)⊃
-kaomoji_hug_r5              : (っಠ‿ಠ)っ
-kaomoji_hug_l2              : ⊂(´• ω •`⊂)
-kaomoji_hug_l3              : ⊂(･ω･*⊂
-kaomoji_hug_g               : ⊂(￣▽￣)⊃
-kaomoji_mischevious         : (｡◕‿‿◕｡)
-kaomoji_frustrated          : (屮ﾟДﾟ)屮
-kaomoji_fight               : (ง •̀_•́)ง
-kaomoji_fight_srz           : (ง ͠° ͟ʖ ͡°)ง
-kaomoji_fightL              : L(° O °L)
-kaomoji_fight2              : (」＞＜)」
-kaomoji_fight               : (งಠ_ಠ)ง
-kaomoji_fight               : σ( •̀ ω •́ σ)
-kaomoji_fight               : O-(`⌒´Q)
-kaomoji_fight               : Q(`⌒´Q)
-kaomoji_fight_punch         : (`⌒*)O-(`⌒´Q)
-kaomoji_fin_adventure_time  : | (• ◡•)|
-kaomoji_dunno               : ¯\(°_o)/¯
-kaomoji_dunno2              : ┐( ﾟーﾟ)┌
-kaomoji_dunno3              : ¯\(°◡ﾟ)/¯
-kaomoji dunno4              : ┐('～`；)┌
-kaomoji dunno5              : ¯\_(ツ)_/¯
-kaomoji_dunno6              : ┐(￣ヘ￣)┌
-kaomoji_dunno7              : ╮(￣_￣)╭
-kaomoji_dunno8              : ╮(︶︿︶)╭
-kaomoji_dunno9              : ┐( ˘ ､ ˘ )┌
-kaomoji_dunno10             : ┐( ˘_˘ )┌
-kaomoji_jake_adventure_time : (❍ᴥ❍ʋ)
-kaomoji wtf mad             : (ಠ_ಠ)
-kaomoji_crying              : (ಥ_ಥ)
-kaomoji_smug                : (￣ω￣)
-kaomoji_smug2               : （￣へ￣）
-kaomoji_surprised_nose      : ( °  ʖ ° )
-kaomoji lenny               : ( ͡° ͜ʖ ͡°)
-kaomoji shrug               : ┐(ツ)┌
-kaomoji_koala               : ʕ•ᴥ•ʔ
-kaomoji_koala_celebrating   : \ʕ•ᴥ•ʔ/
-kaomoji_playful_cat         : ✧٩(•w•๑)
-kaomoji_cuddly              : (っ´ω`c)♡
-kaomoji_tableflip           : (╯°□°)╯ ┻━┻
-kaomoji_singing             : ヾ(*´Д｀*)ﾉ
-kaomoji_cute_dunno          : ╮ (.❛ᴗ❛.) ╭
-kaomoji_pow_cat             : ٩( 'ω' )و
-kaomoji_nervous_sweating    : (-_-;)
-kaomoji_happy_smile         : (^.^)
-kaomoji_happy_smile_drugs   : (◕‿◕)
-kaomoji_:3_blushing         : (*´ω｀*)
-kaomoji_:3                  : (　^ω^)
-kaomoji_:3_sad              : (´；ω；｀)
-kaomoji_:3_surprised        : (´・ω・｀)
-kaomoji_:3_goodbye          : (ヽ´ω`)
-kaomoji_:3_blushing_2       : (*´▽｀*)
-kaomoji_happy               : (^-^)
-kaomoji_smoking             : ( ´ー`)y─┛
-kaomoji_smoking_omg         : (,,ﾟДﾟ)y─┛
-
-kaomoji_cat_happy           : =^.^=
-kaomoji_cat_:3              : (=ﾟωﾟ=)
-kaomoji_cat                 : (=^･ω･^=)
-kaomoji_cat                 : ( =ω=)..nyaa
-kaomoji_cat                 : ଲ(ⓛ ω ⓛ)ଲ
-
-
-kaomoji_surprised           : o_0
-
-kaomoji_cute_smile          : (´｡• ᵕ •｡`)
-smiey_smile_satisfied      : (*¯︶¯*)
-kaomoji_nervous_smile       : (⌒_⌒;)
-kaomoji_tiny_smile          : (ᵔ.ᵔ)
-kaomoji_embarassed          : (*/ω＼)
-kaomoji_embarassed2         : (⁄ ⁄•⁄ω⁄•⁄ ⁄)
-kaomoji_wtf                 : (；￣Д￣)
-kaomoji_wtf2                : (＃￣ω￣)
-kaomoji_unimpressed         : =_=
-kaomoji_unimpressed2        : (︶︹︺)
-kaomoji_unimpressed3        : (￣ヘ￣)
-kaomoji_unimpressed4        : (￣︿￣)
-kaomoji_unimpressed_fu      : 凸(￣ヘ￣)
-
-kaomoji_sour_giggle         : (＞﹏＜)
-
-
-kaomoji_angry               : (益)
-kaomoji_angry_scream        : ( #｀Д´)
-kaomoji_angry_scream2       : (＃`Д´)
-kaomoji_angry_shakefist     : ヾ(`ヘ´)ﾉﾞ
-kaomoji_angry_punch         : ☆ｏ(＞＜；)○
-
-kaomoji_facepalm            : (ノ_<。)
-kaomoji_sad                 : (｡╯︵╰｡)
-kaomoji_sad_cry_nose        : ( ﾟ，_ゝ｀)
-kaomoji_sad_crying          : (╥_╥)
-kaomoji_sad_crying2         : (╥﹏╥)
-kaomoji_sad_cry_hug         : (っ˘̩╭╮˘̩)っ
-kaomoji-sad                 : (｡•́︿•̀｡)
-
-
-kaomoji_confused            : σ(￣、￣〃)
-kaomoji_confused2           : (・_・;)
-kaomoji_confused3           : (・・ ) ?
-kaomoji_confused4           : (￣_￣)・・・
-kaomoji_confused5           : (ー.ー;)
-
-kaomoji_doubt               : (￢_￢)
-kaomoji_doubt               : (￢‿￢)
-kaomoji_doubt               : (↼_↼)
-kaomoji_doubt               : (⇀_⇀)
-
-kaomoji_surprise            : ヽ(°〇°)ﾉ
-kaomoji_surprise            : (⊙_⊙)
-kaomoji_surprise            : (O_O;)
-kaomoji_surprise            : ( : ౦ ‸ ౦ : )
-kaomoji-surprise            : (o_O) !
-
-kaomoji_wave                : (*・ω・)ﾉ
-kaomoji_wave                : (￣▽￣)ノ
-kaomoji_wave                : (^-^*)/
-kaomoji_wave                : (´• ω •`)ﾉ
-kaomoji_wave                : ( ´ ▽ ` )ﾉ
-kaomoji_wave                : ~ヾ(・ω・)
-kaomoji_wave                : ヾ(^ω^*)
-kaomoji_wave                : (・_・)ノ
-kaomoji_wave                : (o´ω`o)ﾉ
-kaomoji_wave                : (⌒ω⌒)ﾉ
-kaomoji_wave                : (o´▽`o)ﾉ
-
-kaomoji_wink                : (^_−)
-kaomoji_wink                : (^_~)
-
-kaomoji_hide_wave           : |ω･)ﾉ
-kaomoji_hide_wave           : ヾ(･|
-kaomoji_hide_wave           : ┬┴┬┴┤･ω･)ﾉ
-kaomoji_hide_:3             : |･ω･)
-kaomoji_hide_scared         : |д･)
-kaomoji_hide_lenny          : ┬┴┬┴┤( ͡° ͜ʖ├┬┴┬┴
-kaomoji_hide                : ┬┴┬┴┤(･_├┬┴┬┴
-kaomoji_hide_wave_creepy    : |ʘ‿ʘ)╯
-
-kaomoji_running             : ε=ε=ε=ε=┌(;￣▽￣)┘
-kaomoji_running             : ε=ε=┌( >_<)┘
-kaomoji_running             : ヽ(￣д￣;)ノ=3=3=3
-kaomoji_running_hug         : ε===(っ≧ω≦)っ
-kaomoji_running             : 。。。ミヽ(。＞＜)ノ
-
-kaomoji_sleep               : [(－－)]..zzZ
-kaomoji_sleep               : (－_－) zzZ
-kaomoji_sleep               : (∪｡∪)｡｡｡zzZ
-kaomoji_sleep               : (－ω－) zzZ
-kaomoji_sleep               : (￣ρ￣)..zzZZ
-kaomoji_sleep               : (－.－)...zzz
-kaomoji_sleep               : (＿ ＿*) Z z z
-
-kaomoji_magic               : ╰( ͡° ͜ʖ ͡° )つ──☆*:・ﾟ
-kaomoji_magic               : (ノ ˘_˘)ノ　ζ|||ζ　ζ|||ζ　ζ|||ζ
-kaomoji_magic               : (∩` ﾛ ´)⊃━炎炎炎炎炎
-
-kaomoji_food                : (っ˘ڡ˘ς)
-
-kaomoji_music               : (〜￣▽￣)〜
-kaomoji_music               : 〜(￣▽￣〜)
-kaomoji_music               : ♪(/_ _ )/♪
-kaomoji_music               : └(＾＾)┐
-kaomoji_music               : ┌(＾＾)┘
-kaomoji_music               : ヾ(⌐■_■)ノ♪
-kaomoji_music               : (~˘▽˘)~
-kaomoji_music               : ~(˘▽˘~)
-kaomoji_music               : (~‾▽‾)~
-kaomoji_music               : ~(˘▽˘)~
-kaomoji_music               : (〜￣△￣)〜
-kaomoji_music               : ( ˘ ɜ˘) ♬ ♪ ♫
-
-kaomoji_wake_up             : ٩(ˊ〇ˋ*)و
-kaomoji_military_salute     : (￣^￣)ゞ
-kaomoji_furious_tableflip   : (╯°益°)╯彡┻━┻
-kaomoji_tableflip           : ( ╯°□°)╯ ┻━━┻
-
-kaomoji_hungry              : (￣﹃￣)
-
-kaomoji_lying               : _(:3 」∠)_
-kaomoji_lying               : ∠( ᐛ 」∠)＿
-
-
-inverted wut               : ¿ʇnʍ
-
-rebels                     : 
-empire                     : 
-soviet communist hammer and sickle : ☭
-
-wide a                     :Ａ
-wide b                     :Ｂ
-wide c                     :Ｃ
-wide d                     :Ｄ
-wide e                     :Ｅ
-wide f                     :Ｆ
-wide g                     :Ｇ
-wide h                     :Ｈ
-wide i                     :Ｉ
-wide j                     :Ｊ
-wide k                     :Ｋ
-wide l                     :Ｌ
-wide m                     :Ｍ
-wide n                     :Ｎ
-wide o                     :Ｏ
-wide p                     :Ｐ
-wide q                     :Ｑ
-wide r                     :Ｒ
-wide s                     :Ｓ
-wide t                     :Ｔ
-wide u                     :Ｕ
-wide v                     :Ｖ
-wide w                     :Ｗ
-wide x                     :Ｘ
-wide y                     :Ｙ
-wide z                     :Ｚ
-wide 0                     :０
-wide 1                     :１
-wide 2                     :２
-wide 3                     :３
-wide 4                     :４
-wide 5                     :５
-wide 6                     :６
-wide 7                     :７
-wide 8                     :８
-wide 9                     :９
-wide .                     :．
-wide ,                     :，
-wide (                     :（
-wide )                     :）
-wide ?                     :？
-wide !                     :！
-wide '                     :＇
-wide space                 : 　
-
-Helmet With White Cross, Type-1-2	:⛑🏻
-Helmet With White Cross, Type-3	:⛑🏼
-Helmet With White Cross, Type-4	:⛑🏽
-Helmet With White Cross, Type-5	:⛑🏾
-Helmet With White Cross, Type-6	:⛑🏿
-Skier, Type-1-2	:⛷🏻
-Skier, Type-3	:⛷🏼
-Skier, Type-4	:⛷🏽
-Skier, Type-5	:⛷🏾
-Skier, Type-6	:⛷🏿
-Grinning Face	:😀
-Grinning Face With Smiling Eyes	:😁
-Face With Tears of Joy	:😂
-Rolling on the Floor Laughing	:🤣
-Smiling Face With Open Mouth	:😃
-Smiling Face With Open Mouth & Smiling Eyes	:😄
-Smiling Face With Open Mouth & Cold Sweat	:😅
-Smiling Face With Open Mouth & Closed Eyes	:😆
-Winking Face	:😉
-Smiling Face With Smiling Eyes	:😊
-Face Savouring Delicious Food	:😋
-Smiling Face With Sunglasses	:😎
-Smiling Face With Heart-Eyes	:😍
-Face Blowing a Kiss	:😘
-Smiling Face	:☺
-Slightly Smiling Face	:🙂
-Hugging Face	:🤗
-Star-Struck	:🤩
-Thinking Face	:🤔
-Face With Raised Eyebrow	:🤨
-Neutral Face	:😐
-Expressionless Face	:😑
-Face Without Mouth	:😶
-Face With Rolling Eyes	:🙄
-Smirking Face	:😏
-Persevering Face	:😣
-Disappointed but Relieved Face	:😥
-Face With Open Mouth	:😮
-Zipper-Mouth Face	:🤐
-Hushed Face	:😯
-Sleepy Face	:😪
-Tired Face	:😫
-Sleeping Face	:😴
-Relieved Face	:😌
-Face With Stuck-Out Tongue	:😛
-Face With Stuck-Out Tongue & Winking Eye	:😜
-Face With Stuck-Out Tongue & Closed Eyes	:😝
-Drooling Face	:🤤
-Unamused Face	:😒
-Face With Cold Sweat	:😓
-Pensive Face	:😔
-Confused Face	:😕
-Upside-Down Face	:🙃
-Money-Mouth Face	:🤑
-Astonished Face	:😲
-Frowning Face	:☹
-Slightly Frowning Face	:🙁
-Confounded Face	:😖
-Disappointed Face	:😞
-Worried Face	:😟
-Face With Steam From Nose	:😤
-Crying Face	:😢
-Loudly Crying Face	:😭
-Frowning Face With Open Mouth	:😦
-Anguished Face	:😧
-Fearful Face	:😨
-Weary Face	:😩
-Exploding Head	:🤯
-Grimacing Face	:😬
-Face With Open Mouth & Cold Sweat	:😰
-Face Screaming in Fear	:😱
-Flushed Face	:😳
-Crazy Face	:🤪
-Dizzy Face	:😵
-Pouting Face	:😡
-Angry Face	:😠
-Face With Symbols Over Mouth	:🤬
-Face With Medical Mask	:😷
-Face With Thermometer	:🤒
-Face With Head-Bandage	:🤕
-Nauseated Face	:🤢
-Face Vomiting	:🤮
-Sneezing Face	:🤧
-Smiling Face With Halo	:😇
-Cowboy Hat Face	:🤠
-Clown Face	:🤡
-Lying Face	:🤥
-Shushing Face	:🤫
-Face With Hand Over Mouth	:🤭
-Face With Monocle	:🧐
-Nerd Face	:🤓
-Smiling Face With Horns	:😈
-Angry Face With Horns	:👿
-Ogre	:👹
-Goblin	:👺
-Skull	:💀
-Skull and Crossbones	:☠
-Ghost	:👻
-Alien	:👽
-Alien Monster	:👾
-Robot Face	:🤖
-Pile of Poo	:💩
-Smiling Cat Face With Open Mouth	:😺
-Grinning Cat Face With Smiling Eyes	:😸
-Cat Face With Tears of Joy	:😹
-Smiling Cat Face With Heart-Eyes	:😻
-Cat Face With Wry Smile	:😼
-Weary Cat Face	:🙀
-Crying Cat Face	:😿
-Pouting Cat Face	:😾
-See-No-Evil Monkey	:🙈
-Hear-No-Evil Monkey	:🙉
-Speak-No-Evil Monkey	:🙊
-Baby	:👶
-Child	:🧒
-Boy	:👦
-Girl	:👧
-Adult	:🧑
-Man	:👨
-Woman	:👩
-Older Adult	:🧓
-Old Man	:👴
-Old Woman	:👵
-Man Health Worker	:👨‍⚕️
-Woman Health Worker	:👩‍⚕️
-Man Student	:👨‍🎓
-Woman Student	:👩‍🎓
-Man Teacher	:👨‍🏫
-Woman Teacher	:👩‍🏫
-Man Judge	:👨‍⚖️
-Woman Judge	:👩‍⚖️
-Man Farmer	:👨‍🌾
-Woman Farmer	:👩‍🌾
-Man Cook	:👨‍🍳
-Woman Cook	:👩‍🍳
-Man Mechanic	:👨‍🔧
-Woman Mechanic	:👩‍🔧
-Man Factory Worker	:👨‍🏭
-Woman Factory Worker	:👩‍🏭
-Man Office Worker	:👨‍💼
-Woman Office Worker	:👩‍💼
-Man Scientist	:👨‍🔬
-Woman Scientist	:👩‍🔬
-Man Technologist	:👨‍💻
-Woman Technologist	:👩‍💻
-Man Singer	:👨‍🎤
-Woman Singer	:👩‍🎤
-Man Artist	:👨‍🎨
-Woman Artist	:👩‍🎨
-Man Pilot	:👨‍✈️
-Woman Pilot	:👩‍✈️
-Man Astronaut	:👨‍🚀
-Woman Astronaut	:👩‍🚀
-Man Firefighter	:👨‍🚒
-Woman Firefighter	:👩‍🚒
-Police Officer	:👮
-Man Police Officer	:👮‍♂️
-Woman Police Officer	:👮‍♀️
-Detective	:🕵
-Man Detective	:🕵️‍♂️
-Woman Detective	:🕵️‍♀️
-Guard	:💂
-Man Guard	:💂‍♂️
-Woman Guard	:💂‍♀️
-Construction Worker	:👷
-Man Construction Worker	:👷‍♂️
-Woman Construction Worker	:👷‍♀️
-Prince	:🤴
-Princess	:👸
-Person Wearing Turban	:👳
-Man Wearing Turban	:👳‍♂️
-Woman Wearing Turban	:👳‍♀️
-Man With Chinese Cap	:👲
-Woman With Headscarf	:🧕
-Bearded Person	:🧔
-Blond-Haired Person	:👱
-Blond-Haired Man	:👱‍♂️
-Blond-Haired Woman	:👱‍♀️
-Man in Tuxedo	:🤵
-Bride With Veil	:👰
-Pregnant Woman	:🤰
-Breast-Feeding	:🤱
-Baby Angel	:👼
-Santa Claus	:🎅
-Mrs. Claus	:🤶
-Mage	:🧙
-Woman Mage	:🧙‍♀️
-Man Mage	:🧙‍♂️
-Fairy	:🧚
-Woman Fairy	:🧚‍♀️
-Man Fairy	:🧚‍♂️
-Vampire	:🧛
-Woman Vampire	:🧛‍♀️
-Man Vampire	:🧛‍♂️
-Woman With Bunny Ears, Type-1-2	:👯🏻
-Woman With Bunny Ears, Type-3	:👯🏼
-Woman With Bunny Ears, Type-4	:👯🏽
-Woman With Bunny Ears, Type-5	:👯🏾
-Merperson	:🧜
-Woman With Bunny Ears, Type-6	:👯🏿
-Men With Bunny Ears Partying, Type-1-2	:👯🏻‍♂️
-Men With Bunny Ears Partying, Type-3	:👯🏼‍♂️
-Men With Bunny Ears Partying, Type-4	:👯🏽‍♂️
-Men With Bunny Ears Partying, Type-5	:👯🏾‍♂️
-Men With Bunny Ears Partying, Type-6	:👯🏿‍♂️
-Mermaid	:🧜‍♀️
-Women With Bunny Ears Partying, Type-1-2	:👯🏻‍♀️
-Women With Bunny Ears Partying, Type-3	:👯🏼‍♀️
-Women With Bunny Ears Partying, Type-4	:👯🏽‍♀️
-Women With Bunny Ears Partying, Type-5	:👯🏾‍♀️
-Women With Bunny Ears Partying, Type-6	:👯🏿‍♀️
-Merman	:🧜‍♂️
-Man and Woman Holding Hands, Type-1-2	:👫🏻
-Man and Woman Holding Hands, Type-3	:👫🏼
-Man and Woman Holding Hands, Type-4	:👫🏽
-Man and Woman Holding Hands, Type-5	:👫🏾
-Man and Woman Holding Hands, Type-6	:👫🏿
-Two Men Holding Hands, Type-1-2	:👬🏻
-Elf	:🧝
-Two Men Holding Hands, Type-3	:👬🏼
-Two Men Holding Hands, Type-4	:👬🏽
-Two Men Holding Hands, Type-5	:👬🏾
-Two Men Holding Hands, Type-6	:👬🏿
-Two Women Holding Hands, Type-1-2	:👭🏻
-Woman Elf	:🧝‍♀️
-Two Women Holding Hands, Type-3	:👭🏼
-Two Women Holding Hands, Type-4	:👭🏽
-Two Women Holding Hands, Type-5	:👭🏾
-Two Women Holding Hands, Type-6	:👭🏿
-Man Elf	:🧝‍♂️
-Genie	:🧞
-Woman Genie	:🧞‍♀️
-Man Genie	:🧞‍♂️
-Zombie	:🧟
-Woman Zombie	:🧟‍♀️
-Man Zombie	:🧟‍♂️
-Person Frowning	:🙍
-Man Frowning	:🙍‍♂️
-Woman Frowning	:🙍‍♀️
-Person Pouting	:🙎
-Man Pouting	:🙎‍♂️
-Woman Pouting	:🙎‍♀️
-Person Gesturing No	:🙅
-Man Gesturing No	:🙅‍♂️
-Woman Gesturing No	:🙅‍♀️
-Person Gesturing OK	:🙆
-Man Gesturing OK	:🙆‍♂️
-Woman Gesturing OK	:🙆‍♀️
-Person Tipping Hand	:💁
-Man Tipping Hand	:💁‍♂️
-Woman Tipping Hand	:💁‍♀️
-Person Raising Hand	:🙋
-Man Raising Hand	:🙋‍♂️
-Woman Raising Hand	:🙋‍♀️
-Person Bowing	:🙇
-Man Bowing	:🙇‍♂️
-Handshake, Type-1-2	:🤝🏻
-Handshake, Type-3	:🤝🏼
-Handshake, Type-4	:🤝🏽
-Handshake, Type-5	:🤝🏾
-Handshake, Type-6	:🤝🏿
-Woman Bowing	:🙇‍♀️
-Person Facepalming	:🤦
-Man Facepalming	:🤦‍♂️
-Woman Facepalming	:🤦‍♀️
-Person Shrugging	:🤷
-Man Shrugging	:🤷‍♂️
-Woman Shrugging	:🤷‍♀️
-Person Getting Massage	:💆
-Man Getting Massage	:💆‍♂️
-Woman Getting Massage	:💆‍♀️
-Person Getting Haircut	:💇
-Man Getting Haircut	:💇‍♂️
-Woman Getting Haircut	:💇‍♀️
-Person Walking	:🚶
-Man Walking	:🚶‍♂️
-Woman Walking	:🚶‍♀️
-Person Running	:🏃
-Man Running	:🏃‍♂️
-Woman Running	:🏃‍♀️
-Woman Dancing	:💃
-Man Dancing	:🕺
-People With Bunny Ears Partying	:👯
-Men With Bunny Ears Partying	:👯‍♂️
-Women With Bunny Ears Partying	:👯‍♀️
-Person in Steamy Room	:🧖
-Woman in Steamy Room	:🧖‍♀️
-Man in Steamy Room	:🧖‍♂️
-Person Climbing	:🧗
-Woman Climbing	:🧗‍♀️
-Man Climbing	:🧗‍♂️
-Person in Lotus Position	:🧘
-Woman in Lotus Position	:🧘‍♀️
-Man in Lotus Position	:🧘‍♂️
-Person Taking Bath	:🛀
-Person in Bed	:🛌
-Man in Business Suit Levitating	:🕴
-Speaking Head	:🗣
-Bust in Silhouette	:👤
-Busts in Silhouette	:👥
-Person Fencing	:🤺
-Horse Racing	:🏇
-Skier	:⛷
-Snowboarder	:🏂
-Person Golfing	:🏌
-Man Golfing	:🏌️‍♂️
-Woman Golfing	:🏌️‍♀️
-Person Surfing	:🏄
-Man Surfing	:🏄‍♂️
-Woman Surfing	:🏄‍♀️
-Person Rowing Boat	:🚣
-Man Rowing Boat	:🚣‍♂️
-Woman Rowing Boat	:🚣‍♀️
-Person Swimming	:🏊
-Man Swimming	:🏊‍♂️
-Woman Swimming	:🏊‍♀️
-Person Bouncing Ball	:⛹
-Man Bouncing Ball	:⛹️‍♂️
-Woman Bouncing Ball	:⛹️‍♀️
-Person Lifting Weights	:🏋
-Man Lifting Weights	:🏋️‍♂️
-Woman Lifting Weights	:🏋️‍♀️
-Person Biking	:🚴
-Man Biking	:🚴‍♂️
-Woman Biking	:🚴‍♀️
-Person Mountain Biking	:🚵
-Man Mountain Biking	:🚵‍♂️
-Woman Mountain Biking	:🚵‍♀️
-Racing Car	:🏎
-Motorcycle	:🏍
-Person Cartwheeling	:🤸
-Man Cartwheeling	:🤸‍♂️
-Woman Cartwheeling	:🤸‍♀️
-People Wrestling	:🤼
-Men Wrestling	:🤼‍♂️
-Women Wrestling	:🤼‍♀️
-Person Playing Water Polo	:🤽
-Man Playing Water Polo	:🤽‍♂️
-Woman Playing Water Polo	:🤽‍♀️
-Person Playing Handball	:🤾
-Man Playing Handball	:🤾‍♂️
-Woman Playing Handball	:🤾‍♀️
-Person Juggling	:🤹
-Man Juggling	:🤹‍♂️
-Woman Juggling	:🤹‍♀️
-Wrestlers, Type-1-2	:🤼🏻
-Wrestlers, Type-3	:🤼🏼
-Man and Woman Holding Hands	:👫
-Wrestlers, Type-4	:🤼🏽
-Two Men Holding Hands	:👬
-Wrestlers, Type-5	:🤼🏾
-Two Women Holding Hands	:👭
-Wrestlers, Type-6	:🤼🏿
-Men Wrestling, Type-1-2	:🤼🏻‍♂️
-Men Wrestling, Type-3	:🤼🏼‍♂️
-Men Wrestling, Type-4	:🤼🏽‍♂️
-Men Wrestling, Type-5	:🤼🏾‍♂️
-Men Wrestling, Type-6	:🤼🏿‍♂️
-Women Wrestling, Type-1-2	:🤼🏻‍♀️
-Women Wrestling, Type-3	:🤼🏼‍♀️
-Women Wrestling, Type-4	:🤼🏽‍♀️
-Women Wrestling, Type-5	:🤼🏾‍♀️
-Women Wrestling, Type-6	:🤼🏿‍♀️
-Selfie	:🤳
-Flexed Biceps	:💪
-Backhand Index Pointing Left	:👈
-Backhand Index Pointing Right	:👉
-Index Pointing Up	:☝
-Backhand Index Pointing Up	:👆
-Middle Finger	:🖕
-Backhand Index Pointing Down	:👇
-Victory Hand	:✌
-Crossed Fingers	:🤞
-Vulcan Salute	:🖖
-Sign of the Horns	:🤘
-Call Me Hand	:🤙
-Raised Hand With Fingers Splayed	:🖐
-Raised Hand	:✋
-OK Hand	:👌
-Thumbs Up	:👍
-Thumbs Down	:👎
-Raised Fist	:✊
-Oncoming Fist	:👊
-Left-Facing Fist	:🤛
-Right-Facing Fist	:🤜
-Raised Back of Hand	:🤚
-Waving Hand	:👋
-Love-You Gesture	:🤟
-Writing Hand	:✍
-Clapping Hands	:👏
-Open Hands	:👐
-Raising Hands	:🙌
-Palms Up Together	:🤲
-Folded Hands	:🙏
-Handshake	:🤝
-Nail Polish	:💅
-Ear	:👂
-Nose	:👃
-Footprints	:👣
-Eyes	:👀
-Eye	:👁
-Eye in Speech Bubble	:👁️‍🗨️
-Brain	:🧠
-Tongue	:👅
-Mouth	:👄
-Heart With Arrow	:💘
-Red Heart	:❤
-Beating Heart	:💓
-Broken Heart	:💔
-Two Hearts	:💕
-Sparkling Heart	:💖
-Growing Heart	:💗
-Blue Heart	:💙
-Green Heart	:💚
-Yellow Heart	:💛
-Orange Heart	:🧡
-Purple Heart	:💜
-Black Heart	:🖤
-Heart With Ribbon	:💝
-Revolving Hearts	:💞
-Heart Decoration	:💟
-Heavy Heart Exclamation	:❣
-Love Letter	:💌
-Zzz	:💤
-Anger Symbol	:💢
-Bomb	:💣
-Collision	:💥
-Sweat Droplets	:💦
-Dashing Away	:💨
-Dizzy	:💫
-Speech Balloon	:💬
-Left Speech Bubble	:🗨
-Right Anger Bubble	:🗯
-Thought Balloon	:💭
-Hole	:🕳
-Glasses	:👓
-Sunglasses	:🕶
-Necktie	:👔
-T-Shirt	:👕
-Jeans	:👖
-Scarf	:🧣
-Gloves	:🧤
-Coat	:🧥
-Socks	:🧦
-Dress	:👗
-Kimono	:👘
-Bikini	:👙
-Woman’s Clothes	:👚
-Purse	:👛
-Handbag	:👜
-Clutch Bag	:👝
-Shopping Bags	:🛍
-School Backpack	:🎒
-Man’s Shoe	:👞
-Running Shoe	:👟
-High-Heeled Shoe	:👠
-Woman’s Sandal	:👡
-Woman’s Boot	:👢
-Crown	:👑
-Woman’s Hat	:👒
-Top Hat	:🎩
-Graduation Cap	:🎓
-Billed Cap	:🧢
-Rescue Worker’s Helmet	:⛑
-Prayer Beads	:📿
-Lipstick	:💄
-Ring	:💍
-Gem Stone	:💎
-Monkey Face	:🐵
-Monkey	:🐒
-Gorilla	:🦍
-Dog Face	:🐶
-Dog	:🐕
-Poodle	:🐩
-Wolf Face	:🐺
-Fox Face	:🦊
-Cat Face	:🐱
-Cat	:🐈
-Lion Face	:🦁
-Tiger Face	:🐯
-Tiger	:🐅
-Leopard	:🐆
-Horse Face	:🐴
-Horse	:🐎
-Unicorn Face	:🦄
-Zebra	:🦓
-Deer	:🦌
-Cow Face	:🐮
-Ox	:🐂
-Water Buffalo	:🐃
-Cow	:🐄
-Pig Face	:🐷
-Pig	:🐖
-Boar	:🐗
-Pig Nose	:🐽
-Ram	:🐏
-Ewe	:🐑
-Goat	:🐐
-Camel	:🐪
-Two-Hump Camel	:🐫
-Giraffe	:🦒
-Elephant	:🐘
-Rhinoceros	:🦏
-Mouse Face	:🐭
-Mouse	:🐁
-Rat	:🐀
-Hamster Face	:🐹
-Rabbit Face	:🐰
-Rabbit	:🐇
-Chipmunk	:🐿
-Hedgehog	:🦔
-Bat	:🦇
-Bear Face	:🐻
-Koala	:🐨
-Panda Face	:🐼
-Paw Prints	:🐾
-Turkey	:🦃
-Chicken	:🐔
-Rooster	:🐓
-Hatching Chick	:🐣
-Baby Chick	:🐤
-Front-Facing Baby Chick	:🐥
-Bird	:🐦
-Penguin	:🐧
-Dove	:🕊
-Eagle	:🦅
-Duck	:🦆
-Owl	:🦉
-Frog Face	:🐸
-Crocodile	:🐊
-Turtle	:🐢
-Lizard	:🦎
-Snake	:🐍
-Dragon Face	:🐲
-Dragon	:🐉
-Sauropod	:🦕
-T-Rex	:🦖
-Spouting Whale	:🐳
-Whale	:🐋
-Dolphin	:🐬
-Fish	:🐟
-Tropical Fish	:🐠
-Blowfish	:🐡
-Shark	:🦈
-Octopus	:🐙
-Spiral Shell	:🐚
-Crab	:🦀
-Shrimp	:🦐
-Squid	:🦑
-Snail	:🐌
-Butterfly	:🦋
-Bug	:🐛
-Ant	:🐜
-Honeybee	:🐝
-Lady Beetle	:🐞
-Cricket	:🦗
-Spider	:🕷
-Spider Web	:🕸
-Scorpion	:🦂
-Bouquet	:💐
-Cherry Blossom	:🌸
-White Flower	:💮
-Rosette	:🏵
-Rose	:🌹
-Wilted Flower	:🥀
-Hibiscus	:🌺
-Sunflower	:🌻
-Blossom	:🌼
-Tulip	:🌷
-Seedling	:🌱
-Evergreen Tree	:🌲
-Deciduous Tree	:🌳
-Palm Tree	:🌴
-Cactus	:🌵
-Sheaf of Rice	:🌾
-Herb	:🌿
-Shamrock	:☘
-Four Leaf Clover	:🍀
-Maple Leaf	:🍁
-Fallen Leaf	:🍂
-Leaf Fluttering in Wind	:🍃
-Grapes	:🍇
-Melon	:🍈
-Watermelon	:🍉
-Tangerine	:🍊
-Lemon	:🍋
-Banana	:🍌
-Pineapple	:🍍
-Red Apple	:🍎
-Green Apple	:🍏
-Pear	:🍐
-Peach	:🍑
-Cherries	:🍒
-Strawberry	:🍓
-Kiwi Fruit	:🥝
-Tomato	:🍅
-Coconut	:🥥
-Avocado	:🥑
-Eggplant	:🍆
-Potato	:🥔
-Carrot	:🥕
-Ear of Corn	:🌽
-Hot Pepper	:🌶
-Cucumber	:🥒
-Broccoli	:🥦
-Mushroom	:🍄
-Peanuts	:🥜
-Chestnut	:🌰
-Bread	:🍞
-Croissant	:🥐
-Baguette Bread	:🥖
-Pretzel	:🥨
-Pancakes	:🥞
-Cheese Wedge	:🧀
-Meat on Bone	:🍖
-Poultry Leg	:🍗
-Cut of Meat	:🥩
-Bacon	:🥓
-Hamburger	:🍔
-French Fries	:🍟
-Pizza	:🍕
-Hot Dog	:🌭
-Sandwich	:🥪
-Taco	:🌮
-Burrito	:🌯
-Stuffed Flatbread	:🥙
-Egg	:🥚
-Cooking	:🍳
-Shallow Pan of Food	:🥘
-Pot of Food	:🍲
-Bowl With Spoon	:🥣
-Green Salad	:🥗
-Popcorn	:🍿
-Canned Food	:🥫
-Bento Box	:🍱
-Rice Cracker	:🍘
-Rice Ball	:🍙
-Cooked Rice	:🍚
-Curry Rice	:🍛
-Steaming Bowl	:🍜
-Spaghetti	:🍝
-Roasted Sweet Potato	:🍠
-Oden	:🍢
-Sushi	:🍣
-Fried Shrimp	:🍤
-Fish Cake With Swirl	:🍥
-Dango	:🍡
-Dumpling	:🥟
-Fortune Cookie	:🥠
-Takeout Box	:🥡
-Soft Ice Cream	:🍦
-Shaved Ice	:🍧
-Ice Cream	:🍨
-Doughnut	:🍩
-Cookie	:🍪
-Birthday Cake	:🎂
-Shortcake	:🍰
-Pie	:🥧
-Chocolate Bar	:🍫
-Candy	:🍬
-Lollipop	:🍭
-Custard	:🍮
-Honey Pot	:🍯
-Baby Bottle	:🍼
-Glass of Milk	:🥛
-Hot Beverage	:☕
-Teacup Without Handle	:🍵
-Sake	:🍶
-Bottle With Popping Cork	:🍾
-Wine Glass	:🍷
-Cocktail Glass	:🍸
-Tropical Drink	:🍹
-Beer Mug	:🍺
-Clinking Beer Mugs	:🍻
-Clinking Glasses	:🥂
-Tumbler Glass	:🥃
-Cup With Straw	:🥤
-Chopsticks	:🥢
-Fork and Knife With Plate	:🍽
-Fork and Knife	:🍴
-Spoon	:🥄
-Kitchen Knife	:🔪
-Amphora	:🏺
-Globe Showing Europe-Africa	:🌍
-Globe Showing Americas	:🌎
-Globe Showing Asia-Australia	:🌏
-Globe With Meridians	:🌐
-World Map	:🗺
-Map of Japan	:🗾
-Snow-Capped Mountain	:🏔
-Mountain	:⛰
-Volcano	:🌋
-Mount Fuji	:🗻
-Camping	:🏕
-Beach With Umbrella	:🏖
-Desert	:🏜
-Desert Island	:🏝
-National Park	:🏞
-Stadium	:🏟
-Classical Building	:🏛
-Building Construction	:🏗
-House	:🏘
-Cityscape	:🏙
-Derelict House	:🏚
-House	:🏠
-House With Garden	:🏡
-Office Building	:🏢
-Japanese Post Office	:🏣
-Post Office	:🏤
-Hospital	:🏥
-Bank	:🏦
-Hotel	:🏨
-Love Hotel	:🏩
-Convenience Store	:🏪
-School	:🏫
-Department Store	:🏬
-Factory	:🏭
-Japanese Castle	:🏯
-Castle	:🏰
-Wedding	:💒
-Tokyo Tower	:🗼
-Statue of Liberty	:🗽
-Church	:⛪
-Mosque	:🕌
-Synagogue	:🕍
-Shinto Shrine	:⛩
-Kaaba	:🕋
-Fountain	:⛲
-Tent	:⛺
-Foggy	:🌁
-Night With Stars	:🌃
-Sunrise Over Mountains	:🌄
-Sunrise	:🌅
-Cityscape at Dusk	:🌆
-Sunset	:🌇
-Bridge at Night	:🌉
-Hot Springs	:♨
-Milky Way	:🌌
-Carousel Horse	:🎠
-Ferris Wheel	:🎡
-Roller Coaster	:🎢
-Barber Pole	:💈
-Circus Tent	:🎪
-Performing Arts	:🎭
-Framed Picture	:🖼
-Artist Palette	:🎨
-Slot Machine	:🎰
-Locomotive	:🚂
-Railway Car	:🚃
-High-Speed Train	:🚄
-High-Speed Train With Bullet Nose	:🚅
-Train	:🚆
-Metro	:🚇
-Light Rail	:🚈
-Station	:🚉
-Tram	:🚊
-Monorail	:🚝
-Mountain Railway	:🚞
-Tram Car	:🚋
-Bus	:🚌
-Oncoming Bus	:🚍
-Trolleybus	:🚎
-Minibus	:🚐
-Ambulance	:🚑
-Fire Engine	:🚒
-Police Car	:🚓
-Oncoming Police Car	:🚔
-Taxi	:🚕
-Oncoming Taxi	:🚖
-Automobile	:🚗
-Oncoming Automobile	:🚘
-Sport Utility Vehicle	:🚙
-Delivery Truck	:🚚
-Articulated Lorry	:🚛
-Tractor	:🚜
-Bicycle	:🚲
-Kick Scooter	:🛴
-Motor Scooter	:🛵
-Bus Stop	:🚏
-Motorway	:🛣
-Railway Track	:🛤
-Fuel Pump	:⛽
-Police Car Light	:🚨
-Horizontal Traffic Light	:🚥
-Vertical Traffic Light	:🚦
-Construction	:🚧
-Stop Sign	:🛑
-Anchor	:⚓
-Sailboat	:⛵
-Canoe	:🛶
-Speedboat	:🚤
-Passenger Ship	:🛳
-Ferry	:⛴
-Motor Boat	:🛥
-Ship	:🚢
-Airplane	:✈
-Small Airplane	:🛩
-Airplane Departure	:🛫
-Airplane Arrival	:🛬
-Seat	:💺
-Helicopter	:🚁
-Suspension Railway	:🚟
-Mountain Cableway	:🚠
-Aerial Tramway	:🚡
-Satellite	:🛰
-Rocket	:🚀
-Flying Saucer	:🛸
-Bellhop Bell	:🛎
-Door	:🚪
-Bed	:🛏
-Couch and Lamp	:🛋
-Toilet	:🚽
-Shower	:🚿
-Bathtub	:🛁
-Hourglass	:⌛
-Hourglass With Flowing Sand	:⏳
-Watch	:⌚
-Alarm Clock	:⏰
-Stopwatch	:⏱
-Timer Clock	:⏲
-Mantelpiece Clock	:🕰
-Twelve O’clock	:🕛
-Twelve-Thirty	:🕧
-One O’clock	:🕐
-One-Thirty	:🕜
-Two O’clock	:🕑
-Two-Thirty	:🕝
-Three O’clock	:🕒
-Three-Thirty	:🕞
-Four O’clock	:🕓
-Four-Thirty	:🕟
-Five O’clock	:🕔
-Five-Thirty	:🕠
-Six O’clock	:🕕
-Six-Thirty	:🕡
-Seven O’clock	:🕖
-Seven-Thirty	:🕢
-Eight O’clock	:🕗
-Eight-Thirty	:🕣
-Nine O’clock	:🕘
-Nine-Thirty	:🕤
-Ten O’clock	:🕙
-Ten-Thirty	:🕥
-Eleven O’clock	:🕚
-Eleven-Thirty	:🕦
-New Moon	:🌑
-Waxing Crescent Moon	:🌒
-First Quarter Moon	:🌓
-Waxing Gibbous Moon	:🌔
-Full Moon	:🌕
-Waning Gibbous Moon	:🌖
-Last Quarter Moon	:🌗
-Waning Crescent Moon	:🌘
-Crescent Moon	:🌙
-New Moon Face	:🌚
-First Quarter Moon With Face	:🌛
-Last Quarter Moon With Face	:🌜
-Thermometer	:🌡
-Sun	:☀
-Full Moon With Face	:🌝
-Sun With Face	:🌞
-White Medium Star	:⭐
-Glowing Star	:🌟
-Shooting Star	:🌠
-Cloud	:☁
-Sun Behind Cloud	:⛅
-Cloud With Lightning and Rain	:⛈
-Sun Behind Small Cloud	:🌤
-Sun Behind Large Cloud	:🌥
-Sun Behind Rain Cloud	:🌦
-Cloud With Rain	:🌧
-Cloud With Snow	:🌨
-Cloud With Lightning	:🌩
-Tornado	:🌪
-Fog	:🌫
-Wind Face	:🌬
-Cyclone	:🌀
-Rainbow	:🌈
-Closed Umbrella	:🌂
-Umbrella	:☂
-Umbrella With Rain Drops	:☔
-Umbrella on Ground	:⛱
-High Voltage	:⚡
-Snowflake	:❄
-Snowman	:☃
-Snowman Without Snow	:⛄
-Comet	:☄
-Fire	:🔥
-Droplet	:💧
-Water Wave	:🌊
-Jack-O-Lantern	:🎃
-Christmas Tree	:🎄
-Fireworks	:🎆
-Sparkler	:🎇
-Sparkles	:✨
-Balloon	:🎈
-Party Popper	:🎉
-Confetti Ball	:🎊
-Tanabata Tree	:🎋
-Pine Decoration	:🎍
-Japanese Dolls	:🎎
-Carp Streamer	:🎏
-Wind Chime	:🎐
-Moon Viewing Ceremony	:🎑
-Ribbon	:🎀
-Wrapped Gift	:🎁
-Reminder Ribbon	:🎗
-Admission Tickets	:🎟
-Ticket	:🎫
-Military Medal	:🎖
-Trophy	:🏆
-Sports Medal	:🏅
-1st Place Medal	:🥇
-2nd Place Medal	:🥈
-3rd Place Medal	:🥉
-Soccer Ball	:⚽
-Baseball	:⚾
-Basketball	:🏀
-Volleyball	:🏐
-American Football	:🏈
-Rugby Football	:🏉
-Tennis	:🎾
-Pool 8 Ball	:🎱
-Bowling	:🎳
-Cricket	:🏏
-Field Hockey	:🏑
-Ice Hockey	:🏒
-Ping Pong	:🏓
-Badminton	:🏸
-Boxing Glove	:🥊
-Martial Arts Uniform	:🥋
-Goal Net	:🥅
-Direct Hit	:🎯
-Flag in Hole	:⛳
-Ice Skate	:⛸
-Fishing Pole	:🎣
-Running Shirt	:🎽
-Skis	:🎿
-Sled	:🛷
-Curling Stone	:🥌
-Video Game	:🎮
-Joystick	:🕹
-Game Die	:🎲
-Spade Suit	:♠
-Heart Suit	:♥
-Diamond Suit	:♦
-Club Suit	:♣
-Joker	:🃏
-Mahjong Red Dragon	:🀄
-Flower Playing Cards	:🎴
-Muted Speaker	:🔇
-Speaker Low Volume	:🔈
-Speaker Medium Volume	:🔉
-Speaker High Volume	:🔊
-Loudspeaker	:📢
-Megaphone	:📣
-Postal Horn	:📯
-Bell	:🔔
-Bell With Slash	:🔕
-Musical Score	:🎼
-Musical Note	:🎵
-Musical Notes	:🎶
-Studio Microphone	:🎙
-Level Slider	:🎚
-Control Knobs	:🎛
-Microphone	:🎤
-Headphone	:🎧
-Radio	:📻
-Saxophone	:🎷
-Guitar	:🎸
-Musical Keyboard	:🎹
-Trumpet	:🎺
-Violin	:🎻
-Drum	:🥁
-Mobile Phone	:📱
-Mobile Phone With Arrow	:📲
-Telephone	:☎
-Telephone Receiver	:📞
-Pager	:📟
-Fax Machine	:📠
-Battery	:🔋
-Electric Plug	:🔌
-Laptop Computer	:💻
-Desktop Computer	:🖥
-Printer	:🖨
-Keyboard	:⌨
-Computer Mouse	:🖱
-Trackball	:🖲
-Computer Disk	:💽
-Floppy Disk	:💾
-Optical Disk	:💿
-DVD	:📀
-Movie Camera	:🎥
-Film Frames	:🎞
-Film Projector	:📽
-Clapper Board	:🎬
-Television	:📺
-Camera	:📷
-Camera With Flash	:📸
-Video Camera	:📹
-Videocassette	:📼
-Left-Pointing Magnifying Glass	:🔍
-Right-Pointing Magnifying Glass	:🔎
-Microscope	:🔬
-Telescope	:🔭
-Satellite Antenna	:📡
-Candle	:🕯
-Light Bulb	:💡
-Flashlight	:🔦
-Red Paper Lantern	:🏮
-Notebook With Decorative Cover	:📔
-Closed Book	:📕
-Open Book	:📖
-Green Book	:📗
-Blue Book	:📘
-Orange Book	:📙
-Books	:📚
-Notebook	:📓
-Ledger	:📒
-Page With Curl	:📃
-Scroll	:📜
-Page Facing Up	:📄
-Newspaper	:📰
-Rolled-Up Newspaper	:🗞
-Bookmark Tabs	:📑
-Bookmark	:🔖
-Label	:🏷
-Money Bag	:💰
-Yen Banknote	:💴
-Dollar Banknote	:💵
-Euro Banknote	:💶
-Pound Banknote	:💷
-Money With Wings	:💸
-Credit Card	:💳
-Chart Increasing With Yen	:💹
-Currency Exchange	:💱
-Heavy Dollar Sign	:💲
-Envelope	:✉
-E-Mail	:📧
-Incoming Envelope	:📨
-Envelope With Arrow	:📩
-Outbox Tray	:📤
-Inbox Tray	:📥
-Package	:📦
-Closed Mailbox With Raised Flag	:📫
-Closed Mailbox With Lowered Flag	:📪
-Open Mailbox With Raised Flag	:📬
-Open Mailbox With Lowered Flag	:📭
-Postbox	:📮
-Ballot Box With Ballot	:🗳
-Pencil	:✏
-Black Nib	:✒
-Fountain Pen	:🖋
-Pen	:🖊
-Paintbrush	:🖌
-Crayon	:🖍
-Memo	:📝
-Briefcase	:💼
-File Folder	:📁
-Open File Folder	:📂
-Card Index Dividers	:🗂
-Calendar	:📅
-Tear-Off Calendar	:📆
-Spiral Notepad	:🗒
-Spiral Calendar	:🗓
-Card Index	:📇
-Chart Increasing	:📈
-Chart Decreasing	:📉
-Bar Chart	:📊
-Clipboard	:📋
-Pushpin	:📌
-Round Pushpin	:📍
-Paperclip	:📎
-Linked Paperclips	:🖇
-Straight Ruler	:📏
-Triangular Ruler	:📐
-Scissors	:✂
-Card File Box	:🗃
-File Cabinet	:🗄
-Wastebasket	:🗑
-Locked	:🔒
-Unlocked	:🔓
-Locked With Pen	:🔏
-Locked With Key	:🔐
-Key	:🔑
-Old Key	:🗝
-Hammer	:🔨
-Pick	:⛏
-Hammer and Pick	:⚒
-Hammer and Wrench	:🛠
-Dagger	:🗡
-Crossed Swords	:⚔
-Pistol	:🔫
-Bow and Arrow	:🏹
-Shield	:🛡
-Wrench	:🔧
-Nut and Bolt	:🔩
-Gear	:⚙
-Clamp	:🗜
-Alembic	:⚗
-Balance Scale	:⚖
-Link	:🔗
-Chains	:⛓
-Syringe	:💉
-Pill	:💊
-Cigarette	:🚬
-Coffin	:⚰
-Funeral Urn	:⚱
-Moai	:🗿
-Oil Drum	:🛢
-Crystal Ball	:🔮
-Shopping Cart	:🛒
-Atm Sign	:🏧
-Litter in Bin Sign	:🚮
-Potable Water	:🚰
-Wheelchair Symbol	:♿
-Men’s Room	:🚹
-Women’s Room	:🚺
-Restroom	:🚻
-Baby Symbol	:🚼
-Water Closet	:🚾
-Passport Control	:🛂
-Customs	:🛃
-Baggage Claim	:🛄
-Left Luggage	:🛅
-Warning	:⚠
-Children Crossing	:🚸
-No Entry	:⛔
-Prohibited	:🚫
-No Bicycles	:🚳
-No Smoking	:🚭
-No Littering	:🚯
-Non-Potable Water	:🚱
-No Pedestrians	:🚷
-No Mobile Phones	:📵
-No One Under Eighteen	:🔞
-Radioactive	:☢
-Biohazard	:☣
-Up Arrow	:⬆
-Up-Right Arrow	:↗
-Right Arrow	:➡
-Down-Right Arrow	:↘
-Down Arrow	:⬇
-Down-Left Arrow	:↙
-Left Arrow	:⬅
-Up-Left Arrow	:↖
-Up-Down Arrow	:↕
-Left-Right Arrow	:↔
-Right Arrow Curving Left	:↩
-Left Arrow Curving Right	:↪
-Right Arrow Curving Up	:⤴
-Right Arrow Curving Down	:⤵
-Clockwise Vertical Arrows	:🔃
-Anticlockwise Arrows Button	:🔄
-Back Arrow	:🔙
-End Arrow	:🔚
-On! Arrow	:🔛
-Soon Arrow	:🔜
-Top Arrow	:🔝
-Place of Worship	:🛐
-Atom Symbol	:⚛
-Om	:🕉
-Star of David	:✡
-Wheel of Dharma	:☸
-Yin Yang	:☯
-Latin Cross	:✝
-Orthodox Cross	:☦
-Star and Crescent	:☪
-Peace Symbol	:☮
-Menorah	:🕎
-Dotted Six-Pointed Star	:🔯
-Aries	:♈
-Taurus	:♉
-Gemini	:♊
-Cancer	:♋
-Leo	:♌
-Virgo	:♍
-Libra	:♎
-Scorpius	:♏
-Sagittarius	:♐
-Capricorn	:♑
-Aquarius	:♒
-Pisces	:♓
-Ophiuchus	:⛎
-Shuffle Tracks Button	:🔀
-Repeat Button	:🔁
-Repeat Single Button	:🔂
-Play Button	:▶
-Fast-Forward Button	:⏩
-Next Track Button	:⏭
-Play or Pause Button	:⏯
-Reverse Button	:◀
-Fast Reverse Button	:⏪
-Last Track Button	:⏮
-Up Button	:🔼
-Fast Up Button	:⏫
-Down Button	:🔽
-Fast Down Button	:⏬
-Pause Button	:⏸
-Stop Button	:⏹
-Record Button	:⏺
-Eject Button	:⏏
-Cinema	:🎦
-Dim Button	:🔅
-Bright Button	:🔆
-Antenna Bars	:📶
-Vibration Mode	:📳
-Mobile Phone Off	:📴
-Female Sign	:♀
-Male Sign	:♂
-Transgender sign :⚧ 
-Medical Symbol	:⚕
-Recycling Symbol	:♻
-Fleur-De-Lis	:⚜
-Trident Emblem	:🔱
-Name Badge	:📛
-Japanese Symbol for Beginner	:🔰
-Heavy Large Circle	:⭕
-White Heavy Check Mark	:✅
-Ballot Box With Check	:☑
-Heavy Check Mark	:✔
-Heavy Multiplication X	:✖
-Cross Mark	:❌
-Cross Mark Button	:❎
-Heavy Plus Sign	:➕
-Heavy Minus Sign	:➖
-Heavy Division Sign	:➗
-Curly Loop	:➰
-Double Curly Loop	:➿
-Part Alternation Mark	:〽
-Eight-Spoked Asterisk	:✳
-Eight-Pointed Star	:✴
-Sparkle	:❇
-Double Exclamation Mark	:‼
-Exclamation Question Mark	:⁉
-Question Mark	:❓
-White Question Mark	:❔
-White Exclamation Mark	:❕
-Exclamation Mark	:❗
-Wavy Dash	:〰
-Copyright	:©
-Registered	:®
-Trade Mark	:™
-Keycap Number Sign	:#️⃣
-Keycap Asterisk	:*️⃣
-Keycap Digit Zero	:0️⃣
-Keycap Digit One	:1️⃣
-Keycap Digit Two	:2️⃣
-Keycap Digit Three	:3️⃣
-Keycap Digit Four	:4️⃣
-Keycap Digit Five	:5️⃣
-Keycap Digit Six	:6️⃣
-Keycap Digit Seven	:7️⃣
-Keycap Digit Eight	:8️⃣
-Keycap Digit Nine	:9️⃣
-Keycap 10	:🔟
-Hundred Points	:💯
-Input Latin Uppercase	:🔠
-Input Latin Lowercase	:🔡
-Input Numbers	:🔢
-Input Symbols	:🔣
-Input Latin Letters	:🔤
-A Button (blood Type)	:🅰
-Ab Button (blood Type)	:🆎
-B Button (blood Type)	:🅱
-CL Button	:🆑
-Cool Button	:🆒
-Free Button	:🆓
-Information	:ℹ
-ID Button	:🆔
-Circled M	:Ⓜ
-New Button	:🆕
-NG Button	:🆖
-O Button (blood Type)	:🅾
-OK Button	:🆗
-P Button	:🅿
-SOS Button	:🆘
-Up! Button	:🆙
-Vs Button	:🆚
-Japanese “here” Button	:🈁
-Japanese “service Charge” Button	:🈂
-Japanese “monthly Amount” Button	:🈷
-Japanese “not Free of Charge” Button	:🈶
-Japanese “reserved” Button	:🈯
-Japanese “bargain” Button	:🉐
-Japanese “discount” Button	:🈹
-Japanese “free of Charge” Button	:🈚
-Japanese “prohibited” Button	:🈲
-Japanese “acceptable” Button	:🉑
-Japanese “application” Button	:🈸
-Japanese “passing Grade” Button	:🈴
-Japanese “vacancy” Button	:🈳
-Japanese “congratulations” Button	:㊗
-Japanese “secret” Button	:㊙
-Japanese “open for Business” Button	:🈺
-Japanese “no Vacancy” Button	:🈵
-Black Small Square	:▪
-White Small Square	:▫
-White Medium Square	:◻
-Black Medium Square	:◼
-White Medium-Small Square	:◽
-Black Medium-Small Square	:◾
-Black Large Square	:⬛
-White Large Square	:⬜
-Large Orange Diamond	:🔶
-Large Blue Diamond	:🔷
-Small Orange Diamond	:🔸
-Small Blue Diamond	:🔹
-Red Triangle Pointed Up	:🔺
-Red Triangle Pointed Down	:🔻
-Diamond With a Dot	:💠
-Radio Button	:🔘
-Black Square Button	:🔲
-White Square Button	:🔳
-White Circle	:⚪
-Black Circle	:⚫
-Red Circle	:🔴
-Blue Circle	:🔵
-Chequered Flag	:🏁
-Triangular Flag	:🚩
-Crossed Flags	:🎌
-Black Flag	:🏴
-White Flag	:🏳
-Rainbow Flag	:🏳️‍🌈
-Ascension Island	:🇦🇨
-Andorra	:🇦🇩
-United Arab Emirates	:🇦🇪
-Afghanistan	:🇦🇫
-Antigua & Barbuda	:🇦🇬
-Anguilla	:🇦🇮
-Albania	:🇦🇱
-Armenia	:🇦🇲
-Angola	:🇦🇴
-Antarctica	:🇦🇶
-Argentina	:🇦🇷
-American Samoa	:🇦🇸
-Austria	:🇦🇹
-Australia	:🇦🇺
-Aruba	:🇦🇼
-Åland Islands	:🇦🇽
-Azerbaijan	:🇦🇿
-Bosnia & Herzegovina	:🇧🇦
-Barbados	:🇧🇧
-Bangladesh	:🇧🇩
-Belgium	:🇧🇪
-Burkina Faso	:🇧🇫
-Bulgaria	:🇧🇬
-Bahrain	:🇧🇭
-Burundi	:🇧🇮
-Benin	:🇧🇯
-St. Barthélemy	:🇧🇱
-Bermuda	:🇧🇲
-Brunei	:🇧🇳
-Bolivia	:🇧🇴
-Caribbean Netherlands	:🇧🇶
-Brazil	:🇧🇷
-Bahamas	:🇧🇸
-Bhutan	:🇧🇹
-Bouvet Island	:🇧🇻
-Botswana	:🇧🇼
-Belarus	:🇧🇾
-Belize	:🇧🇿
-Canada	:🇨🇦
-Cocos (Keeling) Islands	:🇨🇨
-Congo - Kinshasa	:🇨🇩
-Central African Republic	:🇨🇫
-Congo - Brazzaville	:🇨🇬
-Switzerland	:🇨🇭
-Côte D’Ivoire	:🇨🇮
-Cook Islands	:🇨🇰
-Chile	:🇨🇱
-Cameroon	:🇨🇲
-China	:🇨🇳
-Colombia	:🇨🇴
-Clipperton Island	:🇨🇵
-Costa Rica	:🇨🇷
-Cuba	:🇨🇺
-Cape Verde	:🇨🇻
-Curaçao	:🇨🇼
-Christmas Island	:🇨🇽
-Cyprus	:🇨🇾
-Czechia	:🇨🇿
-Germany	:🇩🇪
-Diego Garcia	:🇩🇬
-Djibouti	:🇩🇯
-Denmark	:🇩🇰
-Dominica	:🇩🇲
-Dominican Republic	:🇩🇴
-Algeria	:🇩🇿
-Ceuta & Melilla	:🇪🇦
-Ecuador	:🇪🇨
-Estonia	:🇪🇪
-Egypt	:🇪🇬
-Western Sahara	:🇪🇭
-Eritrea	:🇪🇷
-Spain	:🇪🇸
-Ethiopia	:🇪🇹
-European Union	:🇪🇺
-Finland	:🇫🇮
-Fiji	:🇫🇯
-Falkland Islands	:🇫🇰
-Micronesia	:🇫🇲
-Faroe Islands	:🇫🇴
-France	:🇫🇷
-Gabon	:🇬🇦
-United Kingdom	:🇬🇧
-Grenada	:🇬🇩
-Georgia	:🇬🇪
-French Guiana	:🇬🇫
-Guernsey	:🇬🇬
-Ghana	:🇬🇭
-Gibraltar	:🇬🇮
-Greenland	:🇬🇱
-Gambia	:🇬🇲
-Guinea	:🇬🇳
-Guadeloupe	:🇬🇵
-Equatorial Guinea	:🇬🇶
-Greece	:🇬🇷
-South Georgia & South Sandwich Islands	:🇬🇸
-Guatemala	:🇬🇹
-Guam	:🇬🇺
-Guinea-Bissau	:🇬🇼
-Guyana	:🇬🇾
-Hong Kong Sar China	:🇭🇰
-Heard & Mcdonald Islands	:🇭🇲
-Honduras	:🇭🇳
-Croatia	:🇭🇷
-Haiti	:🇭🇹
-Hungary	:🇭🇺
-Canary Islands	:🇮🇨
-Indonesia	:🇮🇩
-Ireland	:🇮🇪
-Israel	:🇮🇱
-Isle of Man	:🇮🇲
-India	:🇮🇳
-British Indian Ocean Territory	:🇮🇴
-Iraq	:🇮🇶
-Iran	:🇮🇷
-Iceland	:🇮🇸
-Italy	:🇮🇹
-Jersey	:🇯🇪
-Jamaica	:🇯🇲
-Jordan	:🇯🇴
-Japan	:🇯🇵
-Kenya	:🇰🇪
-Kyrgyzstan	:🇰🇬
-Cambodia	:🇰🇭
-Kiribati	:🇰🇮
-Comoros	:🇰🇲
-St. Kitts & Nevis	:🇰🇳
-North Korea	:🇰🇵
-South Korea	:🇰🇷
-Kuwait	:🇰🇼
-Cayman Islands	:🇰🇾
-Kazakhstan	:🇰🇿
-Laos	:🇱🇦
-Lebanon	:🇱🇧
-St. Lucia	:🇱🇨
-Liechtenstein	:🇱🇮
-Sri Lanka	:🇱🇰
-Liberia	:🇱🇷
-Lesotho	:🇱🇸
-Lithuania	:🇱🇹
-Luxembourg	:🇱🇺
-Latvia	:🇱🇻
-Libya	:🇱🇾
-Morocco	:🇲🇦
-Monaco	:🇲🇨
-Moldova	:🇲🇩
-Montenegro	:🇲🇪
-St. Martin	:🇲🇫
-Madagascar	:🇲🇬
-Marshall Islands	:🇲🇭
-Macedonia	:🇲🇰
-Mali	:🇲🇱
-Myanmar (Burma)	:🇲🇲
-Mongolia	:🇲🇳
-Macau Sar China	:🇲🇴
-Northern Mariana Islands	:🇲🇵
-Martinique	:🇲🇶
-Mauritania	:🇲🇷
-Montserrat	:🇲🇸
-Malta	:🇲🇹
-Mauritius	:🇲🇺
-Maldives	:🇲🇻
-Malawi	:🇲🇼
-Mexico	:🇲🇽
-Malaysia	:🇲🇾
-Mozambique	:🇲🇿
-Namibia	:🇳🇦
-New Caledonia	:🇳🇨
-Niger	:🇳🇪
-Norfolk Island	:🇳🇫
-Nigeria	:🇳🇬
-Nicaragua	:🇳🇮
-Netherlands	:🇳🇱
-Norway	:🇳🇴
-Nepal	:🇳🇵
-Nauru	:🇳🇷
-Niue	:🇳🇺
-New Zealand	:🇳🇿
-Oman	:🇴🇲
-Panama	:🇵🇦
-Peru	:🇵🇪
-French Polynesia	:🇵🇫
-Papua New Guinea	:🇵🇬
-Philippines	:🇵🇭
-Pakistan	:🇵🇰
-Poland	:🇵🇱
-St. Pierre & Miquelon	:🇵🇲
-Pitcairn Islands	:🇵🇳
-Puerto Rico	:🇵🇷
-Palestinian Territories	:🇵🇸
-Portugal	:🇵🇹
-Palau	:🇵🇼
-Paraguay	:🇵🇾
-Qatar	:🇶🇦
-Réunion	:🇷🇪
-Romania	:🇷🇴
-Serbia	:🇷🇸
-Russia	:🇷🇺
-Rwanda	:🇷🇼
-Saudi Arabia	:🇸🇦
-Solomon Islands	:🇸🇧
-Seychelles	:🇸🇨
-Sudan	:🇸🇩
-Sweden	:🇸🇪
-Singapore	:🇸🇬
-St. Helena	:🇸🇭
-Slovenia	:🇸🇮
-Svalbard & Jan Mayen	:🇸🇯
-Slovakia	:🇸🇰
-Sierra Leone	:🇸🇱
-San Marino	:🇸🇲
-Senegal	:🇸🇳
-Somalia	:🇸🇴
-Suriname	:🇸🇷
-South Sudan	:🇸🇸
-São Tomé & Príncipe	:🇸🇹
-El Salvador	:🇸🇻
-Sint Maarten	:🇸🇽
-Syria	:🇸🇾
-Swaziland	:🇸🇿
-Tristan Da Cunha	:🇹🇦
-Turks & Caicos Islands	:🇹🇨
-Chad	:🇹🇩
-French Southern Territories	:🇹🇫
-Togo	:🇹🇬
-Thailand	:🇹🇭
-Tajikistan	:🇹🇯
-Tokelau	:🇹🇰
-Timor-Leste	:🇹🇱
-Turkmenistan	:🇹🇲
-Tunisia	:🇹🇳
-Tonga	:🇹🇴
-Turkey	:🇹🇷
-Trinidad & Tobago	:🇹🇹
-Tuvalu	:🇹🇻
-Taiwan	:🇹🇼
-Tanzania	:🇹🇿
-Ukraine	:🇺🇦
-Uganda	:🇺🇬
-U.S. Outlying Islands	:🇺🇲
-United Nations	:🇺🇳
-United States	:🇺🇸
-Uruguay	:🇺🇾
-Uzbekistan	:🇺🇿
-Vatican City	:🇻🇦
-St. Vincent & Grenadines	:🇻🇨
-Venezuela	:🇻🇪
-British Virgin Islands	:🇻🇬
-U.S. Virgin Islands	:🇻🇮
-Vietnam	:🇻🇳
-Vanuatu	:🇻🇺
-Wallis & Futuna	:🇼🇫
-Samoa	:🇼🇸
-Kosovo	:🇽🇰
-Yemen	:🇾🇪
-Mayotte	:🇾🇹
-South Africa	:🇿🇦
-Zambia	:🇿🇲
-Zimbabwe	:🇿🇼
-
-Pirate Flag	:🏴‍☠️
-Dino Cat	:🐱‍🐉
-Astro Cat	:🐱‍🚀
-Ninja Cat	:🐱‍👤
-Hacker Cat	:🐱‍💻
-Stunt Cat	:🐱‍🏍
-Hipster Cat	:🐱‍👓
-
-+ zwj zero width joiner     :‍
-+ male man                  :‍♂️
-+ female woman              :‍♀️
-+ light skin tone           :‍🏻
-+ medium-light skin tone    :‍🏼
-+ medium skin tone          :‍🏽
-+ medium-dark skin tone     :‍🏾
-+ dark skin tone            :‍🏿
-
+alpha (ga)	α
+beta (gb)	β
+gamma (gg)	γ
+delta (gd)	δ
+epsilon (ge)	ε
+zeta (gz)	ζ
+eta (gh)	η
+theta (gj)	θ
+iota (gi)	ι
+kappa (gk)	κ
+lambda (gl)	λ
+mu (gm)	μ
+nu (gn)	ν
+xi (gx)	ξ
+omicron (go)	ο
+pi (gp)	π
+rho (gr)	ρ
+sigma (gs)	σ
+tau (gt)	τ
+upsilon (gu)	υ
+phi (gf)	φ
+chi (gq)	χ
+psi (gy)	ψ
+omega (gw)	ω
+
+Alpha (gA)	Α
+Beta (gB)	Β
+Gamma (gg)	Γ
+Delta (gD)	Δ
+Epsilon (gE)	Ε
+Zeta (gZ)	Ζ
+Eta (gH)	Η
+Theta (gJ)	Θ
+Iota (gI)	Ι
+Kappa (gK)	Κ
+Lambda (gL)	Λ
+Mu (gM)	Μ
+Nu (gN)	Ν
+Xi (gX)	Ξ
+Omicron (gO)	Ο
+Pi (gP)	Π
+Rho (gR)	Ρ
+Sigma (gS)	Σ
+Tau (gT)	Τ
+Upsilon (gU)	Υ
+Phi (gF)	Φ
+Chi (gQ)	Χ
+Psi (gY)	Ψ
+Omega (gW)	Ω
+
+accent a (a')	á
+accent e (e')	é
+accent i (i')	í
+accent o (o')	ó
+accent u (u')	ú
+n tilde (n~)	ñ
+enie	ñ
+ae	æ
+AE	Æ
+diameter	ø
+
+o with stroke (null set, /o\, \o/)	ø
+thorn	þ
+inverted exclamation mark !	¡
+inverted question mark  ?	¿
+em dash (---)	—
+interrobang (!?, ?!, sarcasm)	‽
+
+math union	∪
+math intersection	∩
+math proportional	∝
+math not	¬
+math not equal (!=, /=, neq)	≠
+math equivalence	≡
+math equal by definition	≜
+math approximately (~=)	≈
+math congruent (~=)	≅
+math greater equal	≥
+math less equal	≤
+math much less	≪
+math much more	≪
+math or	⊕
+math contains	∈
+math plusorminus	±
+math for every / for all	∀
+math there exists	∃
+math there does not exists	∄
+math therefore	∴
+math because since	∵
+math minusorplus	±
+math middle dot	·
+math multiplication (xx)	×
+math division	÷
+math gun	¬
+math perpendicular	⊥
+math x variable	x
+math infinite	∞
+88	∞
+math composition	∘
+middle hollow dot	∘
+math vertical line	|
+math hermitian	†
+math proper subset	⊂
+math subset	⊆
+math not subset	⊄
+math not superset	⊅
+math symmetric difference	⊖
+math element of	∈
+math not element of	∉
+math empty set	Ø
+math circled plus oplus	⊕
+math implies	⇒
+math equivalent	⇔
+math equivalent	↔
+math if and oly if	↔
+math defined as	≔
+math integral	∫
+math closed line integral	∮
+math closed surface integral	∯
+math closed volume integral	∰
+//	⁄
+fraction slash	⁄
+
+arrow up	↑
+arrow down	↓
+arrow left (<-)	←
+arrow right (->)	→
+arrow left and right lr	⇆
+arrow right and left rl	⇄
+arrow return	↵
+arrow downright	↘
+arrow downleft	↙
+arrow upright	↗
+arrow upleft	↖
+arrow up and down	↕
+arrow left and right	↔
+check mark	✔
+ok	✔
+horizontal ellipsis (...)	…
+mid ellipsis	⋯
+vertical ellipsis	⁝
+tricolon	⁝
+vertical three dots	⁝
+vertical four dots	⁞
+left double quote (ldq)	“
+right double quote (rdq)	”
+right quote (rq)	’
+
+box drawing 1	░
+box drawing 2	▒
+box drawing 3	▓
+box drawing 4	█
+
+line drawing	└
+line drawing	─
+line drawing	┘
+line drawing	│
+line drawing	┼
+line drawing	│
+line drawing	┌
+line drawing	─
+line drawing	┐
+line drawing	┴
+
+line drawing	┴
+line drawing	├
+line drawing	┤
+line drawing	┬
+
+
+double line drawing	╚
+double line drawing	═
+double line drawing	╝
+double line drawing	║
+double line drawing	┼
+double line drawing	║
+double line drawing	╔
+double line drawing	═
+double line drawing	╗
+
+double line drawing	╩
+double line drawing	╠
+double line drawing	╣
+double line drawing	╦
+
+left bracket	｢
+right bracket	｣
+left japanese quote	｢
+right japanse quote	｣
+right angle bracket	〉
+left angle bracket	〈
+left corner bracket	「
+right corner bracket	」
+fat left corner bracket	『
+fat right corner bracket	』
+
+
+geometric black square	■
+geometric white square	□
+geometric medium black square	◼
+geometric medium white square	◻
+geometric small black square	▪
+geometric small white square	▫
+geometric black triangle up	▲
+geometric white triangle up	△
+geometric small black triangle  up	▴
+geometric small white triangle  up	▵
+geometric black triangle right	▶
+geometric white triangle right	▷
+geometric small black triangle right	▸
+geometric small white triangle right	▹
+geometric black triangle left	◀
+geometric white triangle left	◁
+geometric small black triangle left	◂
+geometric small white triangle left	◃
+geometric black triangle down	▼
+geometric white triangle down	▽
+geometric small black triangle down	▾
+geometric small white triangle down	▿
+geometric black diamond	◆
+geometric white diamond	◇
+geometric black-in-white diamond	◈
+geometric black-in-white circle	◉
+geometric black circle	●
+geometric white circle	○
+geometric dotted circle	◌
+
+geometric circle left half black	◐
+geometric circle right half black	◑
+geometric circle bottom half black	◒
+geometric circle upper half black	◓
+geometric circle upper right quarter black	◔
+geometric circle all but left quarter black	◕
+geometric upper left circular arc	◜
+geometric upper right circular arc	◝
+geometric lower right circular arc	◞
+geometric lower left circular arc	◟
+geometric upper half circular arc	◠
+geometric lower half circular arc	◡
+
+geomteric black right pointer	►
+geomteric white right pointer	◄
+
+b blood type (b button)	🅱️
+Negative Squared Latin Capital Letter B	🅱️
+a blood type (a button)	🅰️
+Negative Squared Latin Capital Letter A	🅰️
+
+frog	🐸
+cow	🐮
+cow2	🐄
+pig	🐷
+turtle	🐢
+cat	🐈
+duck	🦆
+dog	🐶
+snowman	⛇
+pizza	🍕
+pizza2	🍕
+poop	💩
+
+smiling face	☺
+frowning face	☹
+smile	😃
+tongue out	😛
+wink	😉
+surprise	😲
+scared fear	😨
+not amused serious	😐
+crying	😢
+cry laugh	😂
+upside down smile	🙃
+solid star	★
+hollow star	☆
+circled hollow star	✪
+yin yang	☯
+100 points	💯
+okay ok	👌
+drops water	💦
+eggplant	🍆
+
+circ	°
+degrees	°
+oo	°
+angstroms	Å
+ao0	Å
+tm	™
+trademark	™
+pound	£
+yen	¥
+cents	¢
+copyright	©
+CO	©
+registered	®
+CR	®
+micron (,u,)	µ
+paragraph	¶
+super pi	ℼ
+euler	ℯ
+italic n	𝒏
+spinal tap	n̈
+celcius	℃
+farhenheit	℉
+biohazard	☣
+radioactive	☢
+
+heart	❤
+broken heart	💔
+side heart	❥
+
+sup1	¹
+sup2	²
+sup3	³
+sup4	⁴
+sup5	⁵
+sup6	⁶
+sup7	⁷
+sup8	⁸
+sup9	⁹
+sup0	⁰
+sub1	₁
+sub2	₂
+sub3	₃
+sub4	₄
+sub5	₅
+sub6	₆
+sub7	₇
+sub8	₈
+sub9	₉
+sub0	₀
+
+superscript n	ⁿ
+superscript i	ⁱ
+superscript theta	ᶿ
+
+subscript minus -	₋
+subscript a	ₐ
+subscript e	ₑ
+subscript o	ₒ
+subscript x	ₓ
+subscript e inverted	ₔ
+subscript h	ₕ
+subscript k	ₖ
+subscript l	ₗ
+subscript m	ₘ
+subscript n	ₙ
+subscript p	ₚ
+subscript s	ₛ
+subscript t	ₜ
+
+bto (batio3)	BaTiO₃
+tio2	TiO₂
+e=mc2	E = m·c²
+
+kaomoji hug r1	(っ´ω｀)っ
+kaomoji hug l1	⊂(´Д`⊂)
+kaomoji hug r2	(つﾟ⊿ﾟ)つ
+kaomoji hug r3	(っ^_^)っ
+kaomoji hug r4	(⊃｡•́‿•̀｡)⊃
+kaomoji hug r5	(っಠ‿ಠ)っ
+kaomoji hug l2	⊂(´• ω •`⊂)
+kaomoji hug l3	⊂(･ω･*⊂
+kaomoji hug g	⊂(￣▽￣)⊃
+kaomoji mischevious	(｡◕‿‿◕｡)
+kaomoji frustrated	(屮ﾟДﾟ)屮
+kaomoji fight	(ง •̀_•́)ง
+kaomoji fight srz	(ง ͠° ͟ʖ ͡°)ง
+kaomoji fightL	L(° O °L)
+kaomoji fight2	(」＞＜)」
+kaomoji fight	(งಠ_ಠ)ง
+kaomoji fight	σ( •̀ ω •́ σ)
+kaomoji fight	O-(`⌒´Q)
+kaomoji fight	Q(`⌒´Q)
+kaomoji fight punch	(`⌒*)O-(`⌒´Q)
+kaomoji fin adventure time	| (• ◡•)|
+kaomoji dunno	¯\(°_o)/¯
+kaomoji dunno2	┐( ﾟーﾟ)┌
+kaomoji dunno3	¯\(°◡ﾟ)/¯
+kaomoji dunno4	┐('～`；)┌
+kaomoji dunno5	¯\_(ツ)_/¯
+kaomoji dunno6	┐(￣ヘ￣)┌
+kaomoji dunno7	╮(￣_￣)╭
+kaomoji dunno8	╮(︶︿︶)╭
+kaomoji dunno9	┐( ˘ ､ ˘ )┌
+kaomoji dunno10	┐( ˘_˘ )┌
+kaomoji jake adventure time	(❍ᴥ❍ʋ)
+kaomoji wtf mad	(ಠ_ಠ)
+kaomoji crying	(ಥ_ಥ)
+kaomoji smug	(￣ω￣)
+kaomoji smug2	（￣へ￣）
+kaomoji surprised nose	( °  ʖ ° )
+kaomoji lenny	( ͡° ͜ʖ ͡°)
+kaomoji shrug	┐(ツ)┌
+kaomoji koala	ʕ•ᴥ•ʔ
+kaomoji koala celebrating	\ʕ•ᴥ•ʔ/
+kaomoji playful cat	✧٩(•w•๑)
+kaomoji cuddly	(っ´ω`c)♡
+kaomoji tableflip	(╯°□°)╯ ┻━┻
+kaomoji singing	ヾ(*´Д｀*)ﾉ
+kaomoji cute dunno	╮ (.❛ᴗ❛.) ╭
+kaomoji pow cat	٩( 'ω' )و
+kaomoji nervous sweating	(-_-;)
+kaomoji happy smile	(^.^)
+kaomoji happy smile drugs	(◕‿◕)
+kaomoji :3 blushing	(*´ω｀*)
+kaomoji :3	(　^ω^)
+kaomoji :3 sad	(´；ω；｀)
+kaomoji :3 surprised	(´・ω・｀)
+kaomoji :3 goodbye	(ヽ´ω`)
+kaomoji :3 blushing_2	(*´▽｀*)
+kaomoji happy	(^-^)
+kaomoji smoking	( ´ー`)y─┛
+kaomoji smoking omg	(,,ﾟДﾟ)y─┛
+
+kaomoji cat happy	=^.^=
+kaomoji cat :3	(=ﾟωﾟ=)
+kaomoji cat	(=^･ω･^=)
+kaomoji cat	( =ω=)..nyaa
+kaomoji cat	ଲ(ⓛ ω ⓛ)ଲ
+
+kaomoji surprised	o_0
+
+kaomoji cute smile	(´｡• ᵕ •｡`)
+smiey smile satisfied	(*¯︶¯*)
+kaomoji nervous smile	(⌒_⌒;)
+kaomoji tiny smile	(ᵔ.ᵔ)
+kaomoji embarassed	(*/ω＼)
+kaomoji embarassed2	(⁄ ⁄•⁄ω⁄•⁄ ⁄)
+kaomoji wtf	(；￣Д￣)
+kaomoji wtf2	(＃￣ω￣)
+kaomoji unimpressed	=_=
+kaomoji unimpressed2	(︶︹︺)
+kaomoji unimpressed3	(￣ヘ￣)
+kaomoji unimpressed4	(￣︿￣)
+kaomoji unimpressed fu	凸(￣ヘ￣)
+
+kaomoji sour giggle	(＞﹏＜)
+
+kaomoji angry	(益)
+kaomoji angry scream	( #｀Д´)
+kaomoji angry scream2	(＃`Д´)
+kaomoji angry shakefist	ヾ(`ヘ´)ﾉﾞ
+kaomoji angry punch	☆ｏ(＞＜；)○
+
+kaomoji facepalm	(ノ_<。)
+kaomoji sad	(｡╯︵╰｡)
+kaomoji sad cry nose	( ﾟ，_ゝ｀)
+kaomoji sad crying	(╥_╥)
+kaomoji sad crying2	(╥﹏╥)
+kaomoji sad cry hug	(っ˘̩╭╮˘̩)っ
+kaomoji sad	(｡•́︿•̀｡)
+
+
+kaomoji confused	σ(￣、￣〃)
+kaomoji confused2	(・_・;)
+kaomoji confused3	(・・ ) ?
+kaomoji confused4	(￣_￣)・・・
+kaomoji confused5	(ー.ー;)
+
+kaomoji doubt	(￢_￢)
+kaomoji doubt	(￢‿￢)
+kaomoji doubt	(↼_↼)
+kaomoji doubt	(⇀_⇀)
+
+kaomoji surprise	ヽ(°〇°)ﾉ
+kaomoji surprise	(⊙_⊙)
+kaomoji surprise	(O_O;)
+kaomoji surprise:(:౦ ‸ ౦	)
+kaomoji surprise	(o_O) !
+
+kaomoji wave	(*・ω・)ﾉ
+kaomoji wave	(￣▽￣)ノ
+kaomoji wave	(^-^*)/
+kaomoji wave	(´• ω •`)ﾉ
+kaomoji wave	( ´ ▽ ` )ﾉ
+kaomoji wave	~ヾ(・ω・)
+kaomoji wave	ヾ(^ω^*)
+kaomoji wave	(・_・)ノ
+kaomoji wave	(o´ω`o)ﾉ
+kaomoji wave	(⌒ω⌒)ﾉ
+kaomoji wave	(o´▽`o)ﾉ
+
+kaomoji wink	(^_−)
+kaomoji wink	(^_~)
+
+kaomoji hide wave	|ω･)ﾉ
+kaomoji hide wave	ヾ(･|
+kaomoji hide wave	┬┴┬┴┤･ω･)ﾉ
+kaomoji hide_:3	|･ω･)
+kaomoji hide scared	|д･)
+kaomoji hide lenny	┬┴┬┴┤( ͡° ͜ʖ├┬┴┬┴
+kaomoji hide	┬┴┬┴┤(･_├┬┴┬┴
+kaomoji hide wave creepy	|ʘ‿ʘ)╯
+
+kaomoji running	ε=ε=ε=ε=┌(;￣▽￣)┘
+kaomoji running	ε=ε=┌( >_<)┘
+kaomoji running	ヽ(￣д￣;)ノ=3=3=3
+kaomoji running hug	ε===(っ≧ω≦)っ
+kaomoji running	。。。ミヽ(。＞＜)ノ
+
+kaomoji sleep	[(－－)]..zzZ
+kaomoji sleep	(－_－) zzZ
+kaomoji sleep	(∪｡∪)｡｡｡zzZ
+kaomoji sleep	(－ω－) zzZ
+kaomoji sleep	(￣ρ￣)..zzZZ
+kaomoji sleep	(－.－)...zzz
+kaomoji sleep	(＿ ＿*) Z z z
+
+kaomoji magic:╰( ͡° ͜ʖ ͡° )つ──☆*	・ﾟ
+kaomoji magic	(ノ ˘_˘)ノ　ζ|||ζ　ζ|||ζ　ζ|||ζ
+kaomoji magic	(∩` ﾛ ´)⊃━炎炎炎炎炎
+
+kaomoji food	(っ˘ڡ˘ς)
+
+kaomoji music	(〜￣▽￣)〜
+kaomoji music	〜(￣▽￣〜)
+kaomoji music	♪(/_ _ )/♪
+kaomoji music	└(＾＾)┐
+kaomoji music	┌(＾＾)┘
+kaomoji music	ヾ(⌐■_■)ノ♪
+kaomoji music	(~˘▽˘)~
+kaomoji music	~(˘▽˘~)
+kaomoji music	(~‾▽‾)~
+kaomoji music	~(˘▽˘)~
+kaomoji music	(〜￣△￣)〜
+kaomoji music	( ˘ ɜ˘) ♬ ♪ ♫
+
+kaomoji wake up	٩(ˊ〇ˋ*)و
+kaomoji military salute	(￣^￣)ゞ
+kaomoji furious tableflip	(╯°益°)╯彡┻━┻
+kaomoji tableflip	( ╯°□°)╯ ┻━━┻
+
+kaomoji hungry	(￣﹃￣)
+
+kaomoji lying:_(	3 」∠)_
+kaomoji lying	∠( ᐛ 」∠)＿
+
+inverted wut	¿ʇnʍ
+
+rebels	
+empire	
+soviet communist hammer and sickle	☭
+
+wide a	Ａ
+wide b	Ｂ
+wide c	Ｃ
+wide d	Ｄ
+wide e	Ｅ
+wide f	Ｆ
+wide g	Ｇ
+wide h	Ｈ
+wide i	Ｉ
+wide j	Ｊ
+wide k	Ｋ
+wide l	Ｌ
+wide m	Ｍ
+wide n	Ｎ
+wide o	Ｏ
+wide p	Ｐ
+wide q	Ｑ
+wide r	Ｒ
+wide s	Ｓ
+wide t	Ｔ
+wide u	Ｕ
+wide v	Ｖ
+wide w	Ｗ
+wide x	Ｘ
+wide y	Ｙ
+wide z	Ｚ
+wide 0	０
+wide 1	１
+wide 2	２
+wide 3	３
+wide 4	４
+wide 5	５
+wide 6	６
+wide 7	７
+wide 8	８
+wide 9	９
+wide .	．
+wide ,	，
+wide (	（
+wide )	）
+wide ?	？
+wide !	！
+wide '	＇
+wide space	　
+
+Helmet With White Cross, Type-1-2	⛑🏻
+Helmet With White Cross, Type-3	⛑🏼
+Helmet With White Cross, Type-4	⛑🏽
+Helmet With White Cross, Type-5	⛑🏾
+Helmet With White Cross, Type-6	⛑🏿
+Skier, Type-1-2	⛷🏻
+Skier, Type-3	⛷🏼
+Skier, Type-4	⛷🏽
+Skier, Type-5	⛷🏾
+Skier, Type-6	⛷🏿
+Grinning Face	😀
+Grinning Face With Smiling Eyes	😁
+Face With Tears of Joy	😂
+Rolling on the Floor Laughing	🤣
+Smiling Face With Open Mouth	😃
+Smiling Face With Open Mouth & Smiling Eyes	😄
+Smiling Face With Open Mouth & Cold Sweat	😅
+Smiling Face With Open Mouth & Closed Eyes	😆
+Winking Face	😉
+Smiling Face With Smiling Eyes	😊
+Face Savouring Delicious Food	😋
+Smiling Face With Sunglasses	😎
+Smiling Face With Heart-Eyes	😍
+Face Blowing a Kiss	😘
+Smiling Face	☺
+Slightly Smiling Face	🙂
+Hugging Face	🤗
+Star-Struck	🤩
+Thinking Face	🤔
+Face With Raised Eyebrow	🤨
+Neutral Face	😐
+Expressionless Face	😑
+Face Without Mouth	😶
+Face With Rolling Eyes	🙄
+Smirking Face	😏
+Persevering Face	😣
+Disappointed but Relieved Face	😥
+Face With Open Mouth	😮
+Zipper-Mouth Face	🤐
+Hushed Face	😯
+Sleepy Face	😪
+Tired Face	😫
+Sleeping Face	😴
+Relieved Face	😌
+Face With Stuck-Out Tongue	😛
+Face With Stuck-Out Tongue & Winking Eye	😜
+Face With Stuck-Out Tongue & Closed Eyes	😝
+Drooling Face	🤤
+Unamused Face	😒
+Face With Cold Sweat	😓
+Pensive Face	😔
+Confused Face	😕
+Upside-Down Face	🙃
+Money-Mouth Face	🤑
+Astonished Face	😲
+Frowning Face	☹
+Slightly Frowning Face	🙁
+Confounded Face	😖
+Disappointed Face	😞
+Worried Face	😟
+Face With Steam From Nose	😤
+Crying Face	😢
+Loudly Crying Face	😭
+Frowning Face With Open Mouth	😦
+Anguished Face	😧
+Fearful Face	😨
+Weary Face	😩
+Exploding Head	🤯
+Grimacing Face	😬
+Face With Open Mouth & Cold Sweat	😰
+Face Screaming in Fear	😱
+Flushed Face	😳
+Crazy Face	🤪
+Dizzy Face	😵
+Pouting Face	😡
+Angry Face	😠
+Face With Symbols Over Mouth	🤬
+Face With Medical Mask	😷
+Face With Thermometer	🤒
+Face With Head-Bandage	🤕
+Nauseated Face	🤢
+Face Vomiting	🤮
+Sneezing Face	🤧
+Smiling Face With Halo	😇
+Cowboy Hat Face	🤠
+Clown Face	🤡
+Lying Face	🤥
+Shushing Face	🤫
+Face With Hand Over Mouth	🤭
+Face With Monocle	🧐
+Nerd Face	🤓
+Smiling Face With Horns	😈
+Angry Face With Horns	👿
+Ogre	👹
+Goblin	👺
+Skull	💀
+Skull and Crossbones	☠
+Ghost	👻
+Alien	👽
+Alien Monster	👾
+Robot Face	🤖
+Pile of Poo	💩
+Smiling Cat Face With Open Mouth	😺
+Grinning Cat Face With Smiling Eyes	😸
+Cat Face With Tears of Joy	😹
+Smiling Cat Face With Heart-Eyes	😻
+Cat Face With Wry Smile	😼
+Weary Cat Face	🙀
+Crying Cat Face	😿
+Pouting Cat Face	😾
+See-No-Evil Monkey	🙈
+Hear-No-Evil Monkey	🙉
+Speak-No-Evil Monkey	🙊
+Baby	👶
+Child	🧒
+Boy	👦
+Girl	👧
+Adult	🧑
+Man	👨
+Woman	👩
+Older Adult	🧓
+Old Man	👴
+Old Woman	👵
+Man Health Worker	👨‍⚕️
+Woman Health Worker	👩‍⚕️
+Man Student	👨‍🎓
+Woman Student	👩‍🎓
+Man Teacher	👨‍🏫
+Woman Teacher	👩‍🏫
+Man Judge	👨‍⚖️
+Woman Judge	👩‍⚖️
+Man Farmer	👨‍🌾
+Woman Farmer	👩‍🌾
+Man Cook	👨‍🍳
+Woman Cook	👩‍🍳
+Man Mechanic	👨‍🔧
+Woman Mechanic	👩‍🔧
+Man Factory Worker	👨‍🏭
+Woman Factory Worker	👩‍🏭
+Man Office Worker	👨‍💼
+Woman Office Worker	👩‍💼
+Man Scientist	👨‍🔬
+Woman Scientist	👩‍🔬
+Man Technologist	👨‍💻
+Woman Technologist	👩‍💻
+Man Singer	👨‍🎤
+Woman Singer	👩‍🎤
+Man Artist	👨‍🎨
+Woman Artist	👩‍🎨
+Man Pilot	👨‍✈️
+Woman Pilot	👩‍✈️
+Man Astronaut	👨‍🚀
+Woman Astronaut	👩‍🚀
+Man Firefighter	👨‍🚒
+Woman Firefighter	👩‍🚒
+Police Officer	👮
+Man Police Officer	👮‍♂️
+Woman Police Officer	👮‍♀️
+Detective	🕵
+Man Detective	🕵️‍♂️
+Woman Detective	🕵️‍♀️
+Guard	💂
+Man Guard	💂‍♂️
+Woman Guard	💂‍♀️
+Construction Worker	👷
+Man Construction Worker	👷‍♂️
+Woman Construction Worker	👷‍♀️
+Prince	🤴
+Princess	👸
+Person Wearing Turban	👳
+Man Wearing Turban	👳‍♂️
+Woman Wearing Turban	👳‍♀️
+Man With Chinese Cap	👲
+Woman With Headscarf	🧕
+Bearded Person	🧔
+Blond-Haired Person	👱
+Blond-Haired Man	👱‍♂️
+Blond-Haired Woman	👱‍♀️
+Man in Tuxedo	🤵
+Bride With Veil	👰
+Pregnant Woman	🤰
+Breast-Feeding	🤱
+Baby Angel	👼
+Santa Claus	🎅
+Mrs. Claus	🤶
+Mage	🧙
+Woman Mage	🧙‍♀️
+Man Mage	🧙‍♂️
+Fairy	🧚
+Woman Fairy	🧚‍♀️
+Man Fairy	🧚‍♂️
+Vampire	🧛
+Woman Vampire	🧛‍♀️
+Man Vampire	🧛‍♂️
+Woman With Bunny Ears, Type-1-2	👯🏻
+Woman With Bunny Ears, Type-3	👯🏼
+Woman With Bunny Ears, Type-4	👯🏽
+Woman With Bunny Ears, Type-5	👯🏾
+Merperson	🧜
+Woman With Bunny Ears, Type-6	👯🏿
+Men With Bunny Ears Partying, Type-1-2	👯🏻‍♂️
+Men With Bunny Ears Partying, Type-3	👯🏼‍♂️
+Men With Bunny Ears Partying, Type-4	👯🏽‍♂️
+Men With Bunny Ears Partying, Type-5	👯🏾‍♂️
+Men With Bunny Ears Partying, Type-6	👯🏿‍♂️
+Mermaid	🧜‍♀️
+Women With Bunny Ears Partying, Type-1-2	👯🏻‍♀️
+Women With Bunny Ears Partying, Type-3	👯🏼‍♀️
+Women With Bunny Ears Partying, Type-4	👯🏽‍♀️
+Women With Bunny Ears Partying, Type-5	👯🏾‍♀️
+Women With Bunny Ears Partying, Type-6	👯🏿‍♀️
+Merman	🧜‍♂️
+Man and Woman Holding Hands, Type-1-2	👫🏻
+Man and Woman Holding Hands, Type-3	👫🏼
+Man and Woman Holding Hands, Type-4	👫🏽
+Man and Woman Holding Hands, Type-5	👫🏾
+Man and Woman Holding Hands, Type-6	👫🏿
+Two Men Holding Hands, Type-1-2	👬🏻
+Elf	🧝
+Two Men Holding Hands, Type-3	👬🏼
+Two Men Holding Hands, Type-4	👬🏽
+Two Men Holding Hands, Type-5	👬🏾
+Two Men Holding Hands, Type-6	👬🏿
+Two Women Holding Hands, Type-1-2	👭🏻
+Woman Elf	🧝‍♀️
+Two Women Holding Hands, Type-3	👭🏼
+Two Women Holding Hands, Type-4	👭🏽
+Two Women Holding Hands, Type-5	👭🏾
+Two Women Holding Hands, Type-6	👭🏿
+Man Elf	🧝‍♂️
+Genie	🧞
+Woman Genie	🧞‍♀️
+Man Genie	🧞‍♂️
+Zombie	🧟
+Woman Zombie	🧟‍♀️
+Man Zombie	🧟‍♂️
+Person Frowning	🙍
+Man Frowning	🙍‍♂️
+Woman Frowning	🙍‍♀️
+Person Pouting	🙎
+Man Pouting	🙎‍♂️
+Woman Pouting	🙎‍♀️
+Person Gesturing No	🙅
+Man Gesturing No	🙅‍♂️
+Woman Gesturing No	🙅‍♀️
+Person Gesturing OK	🙆
+Man Gesturing OK	🙆‍♂️
+Woman Gesturing OK	🙆‍♀️
+Person Tipping Hand	💁
+Man Tipping Hand	💁‍♂️
+Woman Tipping Hand	💁‍♀️
+Person Raising Hand	🙋
+Man Raising Hand	🙋‍♂️
+Woman Raising Hand	🙋‍♀️
+Person Bowing	🙇
+Man Bowing	🙇‍♂️
+Handshake, Type-1-2	🤝🏻
+Handshake, Type-3	🤝🏼
+Handshake, Type-4	🤝🏽
+Handshake, Type-5	🤝🏾
+Handshake, Type-6	🤝🏿
+Woman Bowing	🙇‍♀️
+Person Facepalming	🤦
+Man Facepalming	🤦‍♂️
+Woman Facepalming	🤦‍♀️
+Person Shrugging	🤷
+Man Shrugging	🤷‍♂️
+Woman Shrugging	🤷‍♀️
+Person Getting Massage	💆
+Man Getting Massage	💆‍♂️
+Woman Getting Massage	💆‍♀️
+Person Getting Haircut	💇
+Man Getting Haircut	💇‍♂️
+Woman Getting Haircut	💇‍♀️
+Person Walking	🚶
+Man Walking	🚶‍♂️
+Woman Walking	🚶‍♀️
+Person Running	🏃
+Man Running	🏃‍♂️
+Woman Running	🏃‍♀️
+Woman Dancing	💃
+Man Dancing	🕺
+People With Bunny Ears Partying	👯
+Men With Bunny Ears Partying	👯‍♂️
+Women With Bunny Ears Partying	👯‍♀️
+Person in Steamy Room	🧖
+Woman in Steamy Room	🧖‍♀️
+Man in Steamy Room	🧖‍♂️
+Person Climbing	🧗
+Woman Climbing	🧗‍♀️
+Man Climbing	🧗‍♂️
+Person in Lotus Position	🧘
+Woman in Lotus Position	🧘‍♀️
+Man in Lotus Position	🧘‍♂️
+Person Taking Bath	🛀
+Person in Bed	🛌
+Man in Business Suit Levitating	🕴
+Speaking Head	🗣
+Bust in Silhouette	👤
+Busts in Silhouette	👥
+Person Fencing	🤺
+Horse Racing	🏇
+Skier	⛷
+Snowboarder	🏂
+Person Golfing	🏌
+Man Golfing	🏌️‍♂️
+Woman Golfing	🏌️‍♀️
+Person Surfing	🏄
+Man Surfing	🏄‍♂️
+Woman Surfing	🏄‍♀️
+Person Rowing Boat	🚣
+Man Rowing Boat	🚣‍♂️
+Woman Rowing Boat	🚣‍♀️
+Person Swimming	🏊
+Man Swimming	🏊‍♂️
+Woman Swimming	🏊‍♀️
+Person Bouncing Ball	⛹
+Man Bouncing Ball	⛹️‍♂️
+Woman Bouncing Ball	⛹️‍♀️
+Person Lifting Weights	🏋
+Man Lifting Weights	🏋️‍♂️
+Woman Lifting Weights	🏋️‍♀️
+Person Biking	🚴
+Man Biking	🚴‍♂️
+Woman Biking	🚴‍♀️
+Person Mountain Biking	🚵
+Man Mountain Biking	🚵‍♂️
+Woman Mountain Biking	🚵‍♀️
+Racing Car	🏎
+Motorcycle	🏍
+Person Cartwheeling	🤸
+Man Cartwheeling	🤸‍♂️
+Woman Cartwheeling	🤸‍♀️
+People Wrestling	🤼
+Men Wrestling	🤼‍♂️
+Women Wrestling	🤼‍♀️
+Person Playing Water Polo	🤽
+Man Playing Water Polo	🤽‍♂️
+Woman Playing Water Polo	🤽‍♀️
+Person Playing Handball	🤾
+Man Playing Handball	🤾‍♂️
+Woman Playing Handball	🤾‍♀️
+Person Juggling	🤹
+Man Juggling	🤹‍♂️
+Woman Juggling	🤹‍♀️
+Wrestlers, Type-1-2	🤼🏻
+Wrestlers, Type-3	🤼🏼
+Man and Woman Holding Hands	👫
+Wrestlers, Type-4	🤼🏽
+Two Men Holding Hands	👬
+Wrestlers, Type-5	🤼🏾
+Two Women Holding Hands	👭
+Wrestlers, Type-6	🤼🏿
+Men Wrestling, Type-1-2	🤼🏻‍♂️
+Men Wrestling, Type-3	🤼🏼‍♂️
+Men Wrestling, Type-4	🤼🏽‍♂️
+Men Wrestling, Type-5	🤼🏾‍♂️
+Men Wrestling, Type-6	🤼🏿‍♂️
+Women Wrestling, Type-1-2	🤼🏻‍♀️
+Women Wrestling, Type-3	🤼🏼‍♀️
+Women Wrestling, Type-4	🤼🏽‍♀️
+Women Wrestling, Type-5	🤼🏾‍♀️
+Women Wrestling, Type-6	🤼🏿‍♀️
+Selfie	🤳
+Flexed Biceps	💪
+Backhand Index Pointing Left	👈
+Backhand Index Pointing Right	👉
+Index Pointing Up	☝
+Backhand Index Pointing Up	👆
+Middle Finger	🖕
+Backhand Index Pointing Down	👇
+Victory Hand	✌
+Crossed Fingers	🤞
+Vulcan Salute	🖖
+Sign of the Horns	🤘
+Call Me Hand	🤙
+Raised Hand With Fingers Splayed	🖐
+Raised Hand	✋
+OK Hand	👌
+Thumbs Up	👍
+Thumbs Down	👎
+Raised Fist	✊
+Oncoming Fist	👊
+Left-Facing Fist	🤛
+Right-Facing Fist	🤜
+Raised Back of Hand	🤚
+Waving Hand	👋
+Love-You Gesture	🤟
+Writing Hand	✍
+Clapping Hands	👏
+Open Hands	👐
+Raising Hands	🙌
+Palms Up Together	🤲
+Folded Hands	🙏
+Handshake	🤝
+Nail Polish	💅
+Ear	👂
+Nose	👃
+Footprints	👣
+Eyes	👀
+Eye	👁
+Eye in Speech Bubble	👁️‍🗨️
+Brain	🧠
+Tongue	👅
+Mouth	👄
+Heart With Arrow	💘
+Red Heart	❤
+Beating Heart	💓
+Broken Heart	💔
+Two Hearts	💕
+Sparkling Heart	💖
+Growing Heart	💗
+Blue Heart	💙
+Green Heart	💚
+Yellow Heart	💛
+Orange Heart	🧡
+Purple Heart	💜
+Black Heart	🖤
+Heart With Ribbon	💝
+Revolving Hearts	💞
+Heart Decoration	💟
+Heavy Heart Exclamation	❣
+Love Letter	💌
+Zzz	💤
+Anger Symbol	💢
+Bomb	💣
+Collision	💥
+Sweat Droplets	💦
+Dashing Away	💨
+Dizzy	💫
+Speech Balloon	💬
+Left Speech Bubble	🗨
+Right Anger Bubble	🗯
+Thought Balloon	💭
+Hole	🕳
+Glasses	👓
+Sunglasses	🕶
+Necktie	👔
+T-Shirt	👕
+Jeans	👖
+Scarf	🧣
+Gloves	🧤
+Coat	🧥
+Socks	🧦
+Dress	👗
+Kimono	👘
+Bikini	👙
+Woman’s Clothes	👚
+Purse	👛
+Handbag	👜
+Clutch Bag	👝
+Shopping Bags	🛍
+School Backpack	🎒
+Man’s Shoe	👞
+Running Shoe	👟
+High-Heeled Shoe	👠
+Woman’s Sandal	👡
+Woman’s Boot	👢
+Crown	👑
+Woman’s Hat	👒
+Top Hat	🎩
+Graduation Cap	🎓
+Billed Cap	🧢
+Rescue Worker’s Helmet	⛑
+Prayer Beads	📿
+Lipstick	💄
+Ring	💍
+Gem Stone	💎
+Monkey Face	🐵
+Monkey	🐒
+Gorilla	🦍
+Dog Face	🐶
+Dog	🐕
+Poodle	🐩
+Wolf Face	🐺
+Fox Face	🦊
+Cat Face	🐱
+Cat	🐈
+Lion Face	🦁
+Tiger Face	🐯
+Tiger	🐅
+Leopard	🐆
+Horse Face	🐴
+Horse	🐎
+Unicorn Face	🦄
+Zebra	🦓
+Deer	🦌
+Cow Face	🐮
+Ox	🐂
+Water Buffalo	🐃
+Cow	🐄
+Pig Face	🐷
+Pig	🐖
+Boar	🐗
+Pig Nose	🐽
+Ram	🐏
+Ewe	🐑
+Goat	🐐
+Camel	🐪
+Two-Hump Camel	🐫
+Giraffe	🦒
+Elephant	🐘
+Rhinoceros	🦏
+Mouse Face	🐭
+Mouse	🐁
+Rat	🐀
+Hamster Face	🐹
+Rabbit Face	🐰
+Rabbit	🐇
+Chipmunk	🐿
+Hedgehog	🦔
+Bat	🦇
+Bear Face	🐻
+Koala	🐨
+Panda Face	🐼
+Paw Prints	🐾
+Turkey	🦃
+Chicken	🐔
+Rooster	🐓
+Hatching Chick	🐣
+Baby Chick	🐤
+Front-Facing Baby Chick	🐥
+Bird	🐦
+Penguin	🐧
+Dove	🕊
+Eagle	🦅
+Duck	🦆
+Owl	🦉
+Frog Face	🐸
+Crocodile	🐊
+Turtle	🐢
+Lizard	🦎
+Snake	🐍
+Dragon Face	🐲
+Dragon	🐉
+Sauropod	🦕
+T-Rex	🦖
+Spouting Whale	🐳
+Whale	🐋
+Dolphin	🐬
+Fish	🐟
+Tropical Fish	🐠
+Blowfish	🐡
+Shark	🦈
+Octopus	🐙
+Spiral Shell	🐚
+Crab	🦀
+Shrimp	🦐
+Squid	🦑
+Snail	🐌
+Butterfly	🦋
+Bug	🐛
+Ant	🐜
+Honeybee	🐝
+Lady Beetle	🐞
+Cricket	🦗
+Spider	🕷
+Spider Web	🕸
+Scorpion	🦂
+Bouquet	💐
+Cherry Blossom	🌸
+White Flower	💮
+Rosette	🏵
+Rose	🌹
+Wilted Flower	🥀
+Hibiscus	🌺
+Sunflower	🌻
+Blossom	🌼
+Tulip	🌷
+Seedling	🌱
+Evergreen Tree	🌲
+Deciduous Tree	🌳
+Palm Tree	🌴
+Cactus	🌵
+Sheaf of Rice	🌾
+Herb	🌿
+Shamrock	☘
+Four Leaf Clover	🍀
+Maple Leaf	🍁
+Fallen Leaf	🍂
+Leaf Fluttering in Wind	🍃
+Grapes	🍇
+Melon	🍈
+Watermelon	🍉
+Tangerine	🍊
+Lemon	🍋
+Banana	🍌
+Pineapple	🍍
+Red Apple	🍎
+Green Apple	🍏
+Pear	🍐
+Peach	🍑
+Cherries	🍒
+Strawberry	🍓
+Kiwi Fruit	🥝
+Tomato	🍅
+Coconut	🥥
+Avocado	🥑
+Eggplant	🍆
+Potato	🥔
+Carrot	🥕
+Ear of Corn	🌽
+Hot Pepper	🌶
+Cucumber	🥒
+Broccoli	🥦
+Mushroom	🍄
+Peanuts	🥜
+Chestnut	🌰
+Bread	🍞
+Croissant	🥐
+Baguette Bread	🥖
+Pretzel	🥨
+Pancakes	🥞
+Cheese Wedge	🧀
+Meat on Bone	🍖
+Poultry Leg	🍗
+Cut of Meat	🥩
+Bacon	🥓
+Hamburger	🍔
+French Fries	🍟
+Pizza	🍕
+Hot Dog	🌭
+Sandwich	🥪
+Taco	🌮
+Burrito	🌯
+Stuffed Flatbread	🥙
+Egg	🥚
+Cooking	🍳
+Shallow Pan of Food	🥘
+Pot of Food	🍲
+Bowl With Spoon	🥣
+Green Salad	🥗
+Popcorn	🍿
+Canned Food	🥫
+Bento Box	🍱
+Rice Cracker	🍘
+Rice Ball	🍙
+Cooked Rice	🍚
+Curry Rice	🍛
+Steaming Bowl	🍜
+Spaghetti	🍝
+Roasted Sweet Potato	🍠
+Oden	🍢
+Sushi	🍣
+Fried Shrimp	🍤
+Fish Cake With Swirl	🍥
+Dango	🍡
+Dumpling	🥟
+Fortune Cookie	🥠
+Takeout Box	🥡
+Soft Ice Cream	🍦
+Shaved Ice	🍧
+Ice Cream	🍨
+Doughnut	🍩
+Cookie	🍪
+Birthday Cake	🎂
+Shortcake	🍰
+Pie	🥧
+Chocolate Bar	🍫
+Candy	🍬
+Lollipop	🍭
+Custard	🍮
+Honey Pot	🍯
+Baby Bottle	🍼
+Glass of Milk	🥛
+Hot Beverage	☕
+Teacup Without Handle	🍵
+Sake	🍶
+Bottle With Popping Cork	🍾
+Wine Glass	🍷
+Cocktail Glass	🍸
+Tropical Drink	🍹
+Beer Mug	🍺
+Clinking Beer Mugs	🍻
+Clinking Glasses	🥂
+Tumbler Glass	🥃
+Cup With Straw	🥤
+Chopsticks	🥢
+Fork and Knife With Plate	🍽
+Fork and Knife	🍴
+Spoon	🥄
+Kitchen Knife	🔪
+Amphora	🏺
+Globe Showing Europe-Africa	🌍
+Globe Showing Americas	🌎
+Globe Showing Asia-Australia	🌏
+Globe With Meridians	🌐
+World Map	🗺
+Map of Japan	🗾
+Snow-Capped Mountain	🏔
+Mountain	⛰
+Volcano	🌋
+Mount Fuji	🗻
+Camping	🏕
+Beach With Umbrella	🏖
+Desert	🏜
+Desert Island	🏝
+National Park	🏞
+Stadium	🏟
+Classical Building	🏛
+Building Construction	🏗
+House	🏘
+Cityscape	🏙
+Derelict House	🏚
+House	🏠
+House With Garden	🏡
+Office Building	🏢
+Japanese Post Office	🏣
+Post Office	🏤
+Hospital	🏥
+Bank	🏦
+Hotel	🏨
+Love Hotel	🏩
+Convenience Store	🏪
+School	🏫
+Department Store	🏬
+Factory	🏭
+Japanese Castle	🏯
+Castle	🏰
+Wedding	💒
+Tokyo Tower	🗼
+Statue of Liberty	🗽
+Church	⛪
+Mosque	🕌
+Synagogue	🕍
+Shinto Shrine	⛩
+Kaaba	🕋
+Fountain	⛲
+Tent	⛺
+Foggy	🌁
+Night With Stars	🌃
+Sunrise Over Mountains	🌄
+Sunrise	🌅
+Cityscape at Dusk	🌆
+Sunset	🌇
+Bridge at Night	🌉
+Hot Springs	♨
+Milky Way	🌌
+Carousel Horse	🎠
+Ferris Wheel	🎡
+Roller Coaster	🎢
+Barber Pole	💈
+Circus Tent	🎪
+Performing Arts	🎭
+Framed Picture	🖼
+Artist Palette	🎨
+Slot Machine	🎰
+Locomotive	🚂
+Railway Car	🚃
+High-Speed Train	🚄
+High-Speed Train With Bullet Nose	🚅
+Train	🚆
+Metro	🚇
+Light Rail	🚈
+Station	🚉
+Tram	🚊
+Monorail	🚝
+Mountain Railway	🚞
+Tram Car	🚋
+Bus	🚌
+Oncoming Bus	🚍
+Trolleybus	🚎
+Minibus	🚐
+Ambulance	🚑
+Fire Engine	🚒
+Police Car	🚓
+Oncoming Police Car	🚔
+Taxi	🚕
+Oncoming Taxi	🚖
+Automobile	🚗
+Oncoming Automobile	🚘
+Sport Utility Vehicle	🚙
+Delivery Truck	🚚
+Articulated Lorry	🚛
+Tractor	🚜
+Bicycle	🚲
+Kick Scooter	🛴
+Motor Scooter	🛵
+Bus Stop	🚏
+Motorway	🛣
+Railway Track	🛤
+Fuel Pump	⛽
+Police Car Light	🚨
+Horizontal Traffic Light	🚥
+Vertical Traffic Light	🚦
+Construction	🚧
+Stop Sign	🛑
+Anchor	⚓
+Sailboat	⛵
+Canoe	🛶
+Speedboat	🚤
+Passenger Ship	🛳
+Ferry	⛴
+Motor Boat	🛥
+Ship	🚢
+Airplane	✈
+Small Airplane	🛩
+Airplane Departure	🛫
+Airplane Arrival	🛬
+Seat	💺
+Helicopter	🚁
+Suspension Railway	🚟
+Mountain Cableway	🚠
+Aerial Tramway	🚡
+Satellite	🛰
+Rocket	🚀
+Flying Saucer	🛸
+Bellhop Bell	🛎
+Door	🚪
+Bed	🛏
+Couch and Lamp	🛋
+Toilet	🚽
+Shower	🚿
+Bathtub	🛁
+Hourglass	⌛
+Hourglass With Flowing Sand	⏳
+Watch	⌚
+Alarm Clock	⏰
+Stopwatch	⏱
+Timer Clock	⏲
+Mantelpiece Clock	🕰
+Twelve O’clock	🕛
+Twelve-Thirty	🕧
+One O’clock	🕐
+One-Thirty	🕜
+Two O’clock	🕑
+Two-Thirty	🕝
+Three O’clock	🕒
+Three-Thirty	🕞
+Four O’clock	🕓
+Four-Thirty	🕟
+Five O’clock	🕔
+Five-Thirty	🕠
+Six O’clock	🕕
+Six-Thirty	🕡
+Seven O’clock	🕖
+Seven-Thirty	🕢
+Eight O’clock	🕗
+Eight-Thirty	🕣
+Nine O’clock	🕘
+Nine-Thirty	🕤
+Ten O’clock	🕙
+Ten-Thirty	🕥
+Eleven O’clock	🕚
+Eleven-Thirty	🕦
+New Moon	🌑
+Waxing Crescent Moon	🌒
+First Quarter Moon	🌓
+Waxing Gibbous Moon	🌔
+Full Moon	🌕
+Waning Gibbous Moon	🌖
+Last Quarter Moon	🌗
+Waning Crescent Moon	🌘
+Crescent Moon	🌙
+New Moon Face	🌚
+First Quarter Moon With Face	🌛
+Last Quarter Moon With Face	🌜
+Thermometer	🌡
+Sun	☀
+Full Moon With Face	🌝
+Sun With Face	🌞
+White Medium Star	⭐
+Glowing Star	🌟
+Shooting Star	🌠
+Cloud	☁
+Sun Behind Cloud	⛅
+Cloud With Lightning and Rain	⛈
+Sun Behind Small Cloud	🌤
+Sun Behind Large Cloud	🌥
+Sun Behind Rain Cloud	🌦
+Cloud With Rain	🌧
+Cloud With Snow	🌨
+Cloud With Lightning	🌩
+Tornado	🌪
+Fog	🌫
+Wind Face	🌬
+Cyclone	🌀
+Rainbow	🌈
+Closed Umbrella	🌂
+Umbrella	☂
+Umbrella With Rain Drops	☔
+Umbrella on Ground	⛱
+High Voltage	⚡
+Snowflake	❄
+Snowman	☃
+Snowman Without Snow	⛄
+Comet	☄
+Fire	🔥
+Droplet	💧
+Water Wave	🌊
+Jack-O-Lantern	🎃
+Christmas Tree	🎄
+Fireworks	🎆
+Sparkler	🎇
+Sparkles	✨
+Balloon	🎈
+Party Popper	🎉
+Confetti Ball	🎊
+Tanabata Tree	🎋
+Pine Decoration	🎍
+Japanese Dolls	🎎
+Carp Streamer	🎏
+Wind Chime	🎐
+Moon Viewing Ceremony	🎑
+Ribbon	🎀
+Wrapped Gift	🎁
+Reminder Ribbon	🎗
+Admission Tickets	🎟
+Ticket	🎫
+Military Medal	🎖
+Trophy	🏆
+Sports Medal	🏅
+1st Place Medal	🥇
+2nd Place Medal	🥈
+3rd Place Medal	🥉
+Soccer Ball	⚽
+Baseball	⚾
+Basketball	🏀
+Volleyball	🏐
+American Football	🏈
+Rugby Football	🏉
+Tennis	🎾
+Pool 8 Ball	🎱
+Bowling	🎳
+Cricket	🏏
+Field Hockey	🏑
+Ice Hockey	🏒
+Ping Pong	🏓
+Badminton	🏸
+Boxing Glove	🥊
+Martial Arts Uniform	🥋
+Goal Net	🥅
+Direct Hit	🎯
+Flag in Hole	⛳
+Ice Skate	⛸
+Fishing Pole	🎣
+Running Shirt	🎽
+Skis	🎿
+Sled	🛷
+Curling Stone	🥌
+Video Game	🎮
+Joystick	🕹
+Game Die	🎲
+Spade Suit	♠
+Heart Suit	♥
+Diamond Suit	♦
+Club Suit	♣
+Joker	🃏
+Mahjong Red Dragon	🀄
+Flower Playing Cards	🎴
+Muted Speaker	🔇
+Speaker Low Volume	🔈
+Speaker Medium Volume	🔉
+Speaker High Volume	🔊
+Loudspeaker	📢
+Megaphone	📣
+Postal Horn	📯
+Bell	🔔
+Bell With Slash	🔕
+Musical Score	🎼
+Musical Note	🎵
+Musical Notes	🎶
+Studio Microphone	🎙
+Level Slider	🎚
+Control Knobs	🎛
+Microphone	🎤
+Headphone	🎧
+Radio	📻
+Saxophone	🎷
+Guitar	🎸
+Musical Keyboard	🎹
+Trumpet	🎺
+Violin	🎻
+Drum	🥁
+Mobile Phone	📱
+Mobile Phone With Arrow	📲
+Telephone	☎
+Telephone Receiver	📞
+Pager	📟
+Fax Machine	📠
+Battery	🔋
+Electric Plug	🔌
+Laptop Computer	💻
+Desktop Computer	🖥
+Printer	🖨
+Keyboard	⌨
+Computer Mouse	🖱
+Trackball	🖲
+Computer Disk	💽
+Floppy Disk	💾
+Optical Disk	💿
+DVD	📀
+Movie Camera	🎥
+Film Frames	🎞
+Film Projector	📽
+Clapper Board	🎬
+Television	📺
+Camera	📷
+Camera With Flash	📸
+Video Camera	📹
+Videocassette	📼
+Left-Pointing Magnifying Glass	🔍
+Right-Pointing Magnifying Glass	🔎
+Microscope	🔬
+Telescope	🔭
+Satellite Antenna	📡
+Candle	🕯
+Light Bulb	💡
+Flashlight	🔦
+Red Paper Lantern	🏮
+Notebook With Decorative Cover	📔
+Closed Book	📕
+Open Book	📖
+Green Book	📗
+Blue Book	📘
+Orange Book	📙
+Books	📚
+Notebook	📓
+Ledger	📒
+Page With Curl	📃
+Scroll	📜
+Page Facing Up	📄
+Newspaper	📰
+Rolled-Up Newspaper	🗞
+Bookmark Tabs	📑
+Bookmark	🔖
+Label	🏷
+Money Bag	💰
+Yen Banknote	💴
+Dollar Banknote	💵
+Euro Banknote	💶
+Pound Banknote	💷
+Money With Wings	💸
+Credit Card	💳
+Chart Increasing With Yen	💹
+Currency Exchange	💱
+Heavy Dollar Sign	💲
+Envelope	✉
+E-Mail	📧
+Incoming Envelope	📨
+Envelope With Arrow	📩
+Outbox Tray	📤
+Inbox Tray	📥
+Package	📦
+Closed Mailbox With Raised Flag	📫
+Closed Mailbox With Lowered Flag	📪
+Open Mailbox With Raised Flag	📬
+Open Mailbox With Lowered Flag	📭
+Postbox	📮
+Ballot Box With Ballot	🗳
+Pencil	✏
+Black Nib	✒
+Fountain Pen	🖋
+Pen	🖊
+Paintbrush	🖌
+Crayon	🖍
+Memo	📝
+Briefcase	💼
+File Folder	📁
+Open File Folder	📂
+Card Index Dividers	🗂
+Calendar	📅
+Tear-Off Calendar	📆
+Spiral Notepad	🗒
+Spiral Calendar	🗓
+Card Index	📇
+Chart Increasing	📈
+Chart Decreasing	📉
+Bar Chart	📊
+Clipboard	📋
+Pushpin	📌
+Round Pushpin	📍
+Paperclip	📎
+Linked Paperclips	🖇
+Straight Ruler	📏
+Triangular Ruler	📐
+Scissors	✂
+Card File Box	🗃
+File Cabinet	🗄
+Wastebasket	🗑
+Locked	🔒
+Unlocked	🔓
+Locked With Pen	🔏
+Locked With Key	🔐
+Key	🔑
+Old Key	🗝
+Hammer	🔨
+Pick	⛏
+Hammer and Pick	⚒
+Hammer and Wrench	🛠
+Dagger	🗡
+Crossed Swords	⚔
+Pistol	🔫
+Bow and Arrow	🏹
+Shield	🛡
+Wrench	🔧
+Nut and Bolt	🔩
+Gear	⚙
+Clamp	🗜
+Alembic	⚗
+Balance Scale	⚖
+Link	🔗
+Chains	⛓
+Syringe	💉
+Pill	💊
+Cigarette	🚬
+Coffin	⚰
+Funeral Urn	⚱
+Moai	🗿
+Oil Drum	🛢
+Crystal Ball	🔮
+Shopping Cart	🛒
+Atm Sign	🏧
+Litter in Bin Sign	🚮
+Potable Water	🚰
+Wheelchair Symbol	♿
+Men’s Room	🚹
+Women’s Room	🚺
+Restroom	🚻
+Baby Symbol	🚼
+Water Closet	🚾
+Passport Control	🛂
+Customs	🛃
+Baggage Claim	🛄
+Left Luggage	🛅
+Warning	⚠
+Children Crossing	🚸
+No Entry	⛔
+Prohibited	🚫
+No Bicycles	🚳
+No Smoking	🚭
+No Littering	🚯
+Non-Potable Water	🚱
+No Pedestrians	🚷
+No Mobile Phones	📵
+No One Under Eighteen	🔞
+Radioactive	☢
+Biohazard	☣
+Up Arrow	⬆
+Up-Right Arrow	↗
+Right Arrow	➡
+Down-Right Arrow	↘
+Down Arrow	⬇
+Down-Left Arrow	↙
+Left Arrow	⬅
+Up-Left Arrow	↖
+Up-Down Arrow	↕
+Left-Right Arrow	↔
+Right Arrow Curving Left	↩
+Left Arrow Curving Right	↪
+Right Arrow Curving Up	⤴
+Right Arrow Curving Down	⤵
+Clockwise Vertical Arrows	🔃
+Anticlockwise Arrows Button	🔄
+Back Arrow	🔙
+End Arrow	🔚
+On! Arrow	🔛
+Soon Arrow	🔜
+Top Arrow	🔝
+Place of Worship	🛐
+Atom Symbol	⚛
+Om	🕉
+Star of David	✡
+Wheel of Dharma	☸
+Yin Yang	☯
+Latin Cross	✝
+Orthodox Cross	☦
+Star and Crescent	☪
+Peace Symbol	☮
+Menorah	🕎
+Dotted Six-Pointed Star	🔯
+Aries	♈
+Taurus	♉
+Gemini	♊
+Cancer	♋
+Leo	♌
+Virgo	♍
+Libra	♎
+Scorpius	♏
+Sagittarius	♐
+Capricorn	♑
+Aquarius	♒
+Pisces	♓
+Ophiuchus	⛎
+Shuffle Tracks Button	🔀
+Repeat Button	🔁
+Repeat Single Button	🔂
+Play Button	▶
+Fast-Forward Button	⏩
+Next Track Button	⏭
+Play or Pause Button	⏯
+Reverse Button	◀
+Fast Reverse Button	⏪
+Last Track Button	⏮
+Up Button	🔼
+Fast Up Button	⏫
+Down Button	🔽
+Fast Down Button	⏬
+Pause Button	⏸
+Stop Button	⏹
+Record Button	⏺
+Eject Button	⏏
+Cinema	🎦
+Dim Button	🔅
+Bright Button	🔆
+Antenna Bars	📶
+Vibration Mode	📳
+Mobile Phone Off	📴
+Female Sign	♀
+Male Sign	♂
+Transgender sign	⚧
+Medical Symbol	⚕
+Recycling Symbol	♻
+Fleur-De-Lis	⚜
+Trident Emblem	🔱
+Name Badge	📛
+Japanese Symbol for Beginner	🔰
+Heavy Large Circle	⭕
+White Heavy Check Mark	✅
+Ballot Box With Check	☑
+Heavy Check Mark	✔
+Heavy Multiplication X	✖
+Cross Mark	❌
+Cross Mark Button	❎
+Heavy Plus Sign	➕
+Heavy Minus Sign	➖
+Heavy Division Sign	➗
+Curly Loop	➰
+Double Curly Loop	➿
+Part Alternation Mark	〽
+Eight-Spoked Asterisk	✳
+Eight-Pointed Star	✴
+Sparkle	❇
+Double Exclamation Mark	‼
+Exclamation Question Mark	⁉
+Question Mark	❓
+White Question Mark	❔
+White Exclamation Mark	❕
+Exclamation Mark	❗
+Wavy Dash	〰
+Copyright	©
+Registered	®
+Trade Mark	™
+Keycap Number Sign	#️⃣
+Keycap Asterisk	*️⃣
+Keycap Digit Zero	0️⃣
+Keycap Digit One	1️⃣
+Keycap Digit Two	2️⃣
+Keycap Digit Three	3️⃣
+Keycap Digit Four	4️⃣
+Keycap Digit Five	5️⃣
+Keycap Digit Six	6️⃣
+Keycap Digit Seven	7️⃣
+Keycap Digit Eight	8️⃣
+Keycap Digit Nine	9️⃣
+Keycap 10	🔟
+Hundred Points	💯
+Input Latin Uppercase	🔠
+Input Latin Lowercase	🔡
+Input Numbers	🔢
+Input Symbols	🔣
+Input Latin Letters	🔤
+A Button (blood Type)	🅰
+Ab Button (blood Type)	🆎
+B Button (blood Type)	🅱
+CL Button	🆑
+Cool Button	🆒
+Free Button	🆓
+Information	ℹ
+ID Button	🆔
+Circled M	Ⓜ
+New Button	🆕
+NG Button	🆖
+O Button (blood Type)	🅾
+OK Button	🆗
+P Button	🅿
+SOS Button	🆘
+Up! Button	🆙
+Vs Button	🆚
+Japanese “here” Button	🈁
+Japanese “service Charge” Button	🈂
+Japanese “monthly Amount” Button	🈷
+Japanese “not Free of Charge” Button	🈶
+Japanese “reserved” Button	🈯
+Japanese “bargain” Button	🉐
+Japanese “discount” Button	🈹
+Japanese “free of Charge” Button	🈚
+Japanese “prohibited” Button	🈲
+Japanese “acceptable” Button	🉑
+Japanese “application” Button	🈸
+Japanese “passing Grade” Button	🈴
+Japanese “vacancy” Button	🈳
+Japanese “congratulations” Button	㊗
+Japanese “secret” Button	㊙
+Japanese “open for Business” Button	🈺
+Japanese “no Vacancy” Button	🈵
+Black Small Square	▪
+White Small Square	▫
+White Medium Square	◻
+Black Medium Square	◼
+White Medium-Small Square	◽
+Black Medium-Small Square	◾
+Black Large Square	⬛
+White Large Square	⬜
+Large Orange Diamond	🔶
+Large Blue Diamond	🔷
+Small Orange Diamond	🔸
+Small Blue Diamond	🔹
+Red Triangle Pointed Up	🔺
+Red Triangle Pointed Down	🔻
+Diamond With a Dot	💠
+Radio Button	🔘
+Black Square Button	🔲
+White Square Button	🔳
+White Circle	⚪
+Black Circle	⚫
+Red Circle	🔴
+Blue Circle	🔵
+Chequered Flag	🏁
+Triangular Flag	🚩
+Crossed Flags	🎌
+Black Flag	🏴
+White Flag	🏳
+Rainbow Flag	🏳️‍🌈
+Ascension Island	🇦🇨
+Andorra	🇦🇩
+United Arab Emirates	🇦🇪
+Afghanistan	🇦🇫
+Antigua & Barbuda	🇦🇬
+Anguilla	🇦🇮
+Albania	🇦🇱
+Armenia	🇦🇲
+Angola	🇦🇴
+Antarctica	🇦🇶
+Argentina	🇦🇷
+American Samoa	🇦🇸
+Austria	🇦🇹
+Australia	🇦🇺
+Aruba	🇦🇼
+Åland Islands	🇦🇽
+Azerbaijan	🇦🇿
+Bosnia & Herzegovina	🇧🇦
+Barbados	🇧🇧
+Bangladesh	🇧🇩
+Belgium	🇧🇪
+Burkina Faso	🇧🇫
+Bulgaria	🇧🇬
+Bahrain	🇧🇭
+Burundi	🇧🇮
+Benin	🇧🇯
+St. Barthélemy	🇧🇱
+Bermuda	🇧🇲
+Brunei	🇧🇳
+Bolivia	🇧🇴
+Caribbean Netherlands	🇧🇶
+Brazil	🇧🇷
+Bahamas	🇧🇸
+Bhutan	🇧🇹
+Bouvet Island	🇧🇻
+Botswana	🇧🇼
+Belarus	🇧🇾
+Belize	🇧🇿
+Canada	🇨🇦
+Cocos (Keeling) Islands	🇨🇨
+Congo - Kinshasa	🇨🇩
+Central African Republic	🇨🇫
+Congo - Brazzaville	🇨🇬
+Switzerland	🇨🇭
+Côte D’Ivoire	🇨🇮
+Cook Islands	🇨🇰
+Chile	🇨🇱
+Cameroon	🇨🇲
+China	🇨🇳
+Colombia	🇨🇴
+Clipperton Island	🇨🇵
+Costa Rica	🇨🇷
+Cuba	🇨🇺
+Cape Verde	🇨🇻
+Curaçao	🇨🇼
+Christmas Island	🇨🇽
+Cyprus	🇨🇾
+Czechia	🇨🇿
+Germany	🇩🇪
+Diego Garcia	🇩🇬
+Djibouti	🇩🇯
+Denmark	🇩🇰
+Dominica	🇩🇲
+Dominican Republic	🇩🇴
+Algeria	🇩🇿
+Ceuta & Melilla	🇪🇦
+Ecuador	🇪🇨
+Estonia	🇪🇪
+Egypt	🇪🇬
+Western Sahara	🇪🇭
+Eritrea	🇪🇷
+Spain	🇪🇸
+Ethiopia	🇪🇹
+European Union	🇪🇺
+Finland	🇫🇮
+Fiji	🇫🇯
+Falkland Islands	🇫🇰
+Micronesia	🇫🇲
+Faroe Islands	🇫🇴
+France	🇫🇷
+Gabon	🇬🇦
+United Kingdom	🇬🇧
+Grenada	🇬🇩
+Georgia	🇬🇪
+French Guiana	🇬🇫
+Guernsey	🇬🇬
+Ghana	🇬🇭
+Gibraltar	🇬🇮
+Greenland	🇬🇱
+Gambia	🇬🇲
+Guinea	🇬🇳
+Guadeloupe	🇬🇵
+Equatorial Guinea	🇬🇶
+Greece	🇬🇷
+South Georgia & South Sandwich Islands	🇬🇸
+Guatemala	🇬🇹
+Guam	🇬🇺
+Guinea-Bissau	🇬🇼
+Guyana	🇬🇾
+Hong Kong Sar China	🇭🇰
+Heard & Mcdonald Islands	🇭🇲
+Honduras	🇭🇳
+Croatia	🇭🇷
+Haiti	🇭🇹
+Hungary	🇭🇺
+Canary Islands	🇮🇨
+Indonesia	🇮🇩
+Ireland	🇮🇪
+Israel	🇮🇱
+Isle of Man	🇮🇲
+India	🇮🇳
+British Indian Ocean Territory	🇮🇴
+Iraq	🇮🇶
+Iran	🇮🇷
+Iceland	🇮🇸
+Italy	🇮🇹
+Jersey	🇯🇪
+Jamaica	🇯🇲
+Jordan	🇯🇴
+Japan	🇯🇵
+Kenya	🇰🇪
+Kyrgyzstan	🇰🇬
+Cambodia	🇰🇭
+Kiribati	🇰🇮
+Comoros	🇰🇲
+St. Kitts & Nevis	🇰🇳
+North Korea	🇰🇵
+South Korea	🇰🇷
+Kuwait	🇰🇼
+Cayman Islands	🇰🇾
+Kazakhstan	🇰🇿
+Laos	🇱🇦
+Lebanon	🇱🇧
+St. Lucia	🇱🇨
+Liechtenstein	🇱🇮
+Sri Lanka	🇱🇰
+Liberia	🇱🇷
+Lesotho	🇱🇸
+Lithuania	🇱🇹
+Luxembourg	🇱🇺
+Latvia	🇱🇻
+Libya	🇱🇾
+Morocco	🇲🇦
+Monaco	🇲🇨
+Moldova	🇲🇩
+Montenegro	🇲🇪
+St. Martin	🇲🇫
+Madagascar	🇲🇬
+Marshall Islands	🇲🇭
+Macedonia	🇲🇰
+Mali	🇲🇱
+Myanmar (Burma)	🇲🇲
+Mongolia	🇲🇳
+Macau Sar China	🇲🇴
+Northern Mariana Islands	🇲🇵
+Martinique	🇲🇶
+Mauritania	🇲🇷
+Montserrat	🇲🇸
+Malta	🇲🇹
+Mauritius	🇲🇺
+Maldives	🇲🇻
+Malawi	🇲🇼
+Mexico	🇲🇽
+Malaysia	🇲🇾
+Mozambique	🇲🇿
+Namibia	🇳🇦
+New Caledonia	🇳🇨
+Niger	🇳🇪
+Norfolk Island	🇳🇫
+Nigeria	🇳🇬
+Nicaragua	🇳🇮
+Netherlands	🇳🇱
+Norway	🇳🇴
+Nepal	🇳🇵
+Nauru	🇳🇷
+Niue	🇳🇺
+New Zealand	🇳🇿
+Oman	🇴🇲
+Panama	🇵🇦
+Peru	🇵🇪
+French Polynesia	🇵🇫
+Papua New Guinea	🇵🇬
+Philippines	🇵🇭
+Pakistan	🇵🇰
+Poland	🇵🇱
+St. Pierre & Miquelon	🇵🇲
+Pitcairn Islands	🇵🇳
+Puerto Rico	🇵🇷
+Palestinian Territories	🇵🇸
+Portugal	🇵🇹
+Palau	🇵🇼
+Paraguay	🇵🇾
+Qatar	🇶🇦
+Réunion	🇷🇪
+Romania	🇷🇴
+Serbia	🇷🇸
+Russia	🇷🇺
+Rwanda	🇷🇼
+Saudi Arabia	🇸🇦
+Solomon Islands	🇸🇧
+Seychelles	🇸🇨
+Sudan	🇸🇩
+Sweden	🇸🇪
+Singapore	🇸🇬
+St. Helena	🇸🇭
+Slovenia	🇸🇮
+Svalbard & Jan Mayen	🇸🇯
+Slovakia	🇸🇰
+Sierra Leone	🇸🇱
+San Marino	🇸🇲
+Senegal	🇸🇳
+Somalia	🇸🇴
+Suriname	🇸🇷
+South Sudan	🇸🇸
+São Tomé & Príncipe	🇸🇹
+El Salvador	🇸🇻
+Sint Maarten	🇸🇽
+Syria	🇸🇾
+Swaziland	🇸🇿
+Tristan Da Cunha	🇹🇦
+Turks & Caicos Islands	🇹🇨
+Chad	🇹🇩
+French Southern Territories	🇹🇫
+Togo	🇹🇬
+Thailand	🇹🇭
+Tajikistan	🇹🇯
+Tokelau	🇹🇰
+Timor-Leste	🇹🇱
+Turkmenistan	🇹🇲
+Tunisia	🇹🇳
+Tonga	🇹🇴
+Turkey	🇹🇷
+Trinidad & Tobago	🇹🇹
+Tuvalu	🇹🇻
+Taiwan	🇹🇼
+Tanzania	🇹🇿
+Ukraine	🇺🇦
+Uganda	🇺🇬
+U.S. Outlying Islands	🇺🇲
+United Nations	🇺🇳
+United States	🇺🇸
+Uruguay	🇺🇾
+Uzbekistan	🇺🇿
+Vatican City	🇻🇦
+St. Vincent & Grenadines	🇻🇨
+Venezuela	🇻🇪
+British Virgin Islands	🇻🇬
+U.S. Virgin Islands	🇻🇮
+Vietnam	🇻🇳
+Vanuatu	🇻🇺
+Wallis & Futuna	🇼🇫
+Samoa	🇼🇸
+Kosovo	🇽🇰
+Yemen	🇾🇪
+Mayotte	🇾🇹
+South Africa	🇿🇦
+Zambia	🇿🇲
+Zimbabwe	🇿🇼
+
+Pirate Flag	🏴‍☠️
+Dino Cat	🐱‍🐉
+Astro Cat	🐱‍🚀
+Ninja Cat	🐱‍👤
+Hacker Cat	🐱‍💻
+Stunt Cat	🐱‍🏍
+Hipster Cat	🐱‍👓
+
++ zwj zero width joiner	‍
++ male man	‍♂️
++ female woman	‍♀️
++ light skin tone	‍🏻
++ medium-light skin tone	‍🏼
++ medium skin tone	‍🏽
++ medium-dark skin tone	‍🏾
++ dark skin tone	‍🏿
