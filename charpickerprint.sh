@@ -5,12 +5,16 @@
 # Released under the GNU GPL v3.0
 
 theme="arthur-c.rasi"
-character_list="special_character_list"
 character_list_rofi="special_character_list.rofi"
 character_list_chars="special_character_list.symbols"
+user_theme=~/.config/charpicker/theme.rasi
+
+if [ -f "$user_theme" ]; then
+    theme="$user_theme"
+fi
 
 start_rofi () {
-    rofi -dmenu -i -sync -theme $theme -p "sym:" -format d
+    rofi -dmenu -i -sync -theme "$theme" -p "sym:" -format d
 }
 
 compile () {
@@ -23,7 +27,7 @@ cd "$(dirname "$0")" || exit 1
 if [ ! -f .compiled-sha1 ]; then
     compile
 else
-    if [ "$(sha1sum "$character_list")" != "$(cat .compiled-sha1)" ]; then
+    if [ "$(sha1sum < ./effective_special_character_list.sh)" != "$(cat .compiled-sha1)" ]; then
         compile
     fi
 fi

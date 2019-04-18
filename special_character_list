@@ -251,7 +251,7 @@ cow	🐮
 cow2	🐄
 pig	🐷
 turtle	🐢
-cat	🐈
+cat (meow)	🐈
 duck	🦆
 dog	🐶
 snowman	⛇
@@ -390,7 +390,20 @@ kaomoji smug	(￣ω￣)
 kaomoji smug2	（￣へ￣）
 kaomoji surprised nose	( °  ʖ ° )
 kaomoji lenny	( ͡° ͜ʖ ͡°)
+kaomoji lenny with ears	ʕ ͡° ͜ʖ ͡°ʔ
+kaomoji lenny angry	( ͡° ʖ̯ ͡°)
+kaomoji lenny angry with ears	ʕ ͡° ʖ̯ ͡°ʔ
+kaomoji lenny skeptical	( ͠° ͟ʖ ͡°)
+kaomoji lenny very skeptical	( ͠° ͟ʖ ͠°)
+kaomoji lenny wink	( ͡~ ͜ʖ ͡°)
+kaomoji lenny middle finger	( ° ͜ʖ͡°)╭∩╮
+kaomoji lenny shrug	┐( ͡° ʖ̯ ͡°)┌
+kaomoji lenny on drugs	( ͡☉ ͜ʖ ͡☉)
+kaomoji lenny amused	( ͡ᵔ ͜ʖ ͡ᵔ )
+kaomoji lenny sleeping	( ‾ ʖ̫ ‾)
+kaomoji lenny delighted	(☭ ͜ʖ ☭)
 kaomoji shrug	┐(ツ)┌
+kaomoji shrug long arms	¯\_(ツ)_/¯
 kaomoji koala	ʕ•ᴥ•ʔ
 kaomoji koala celebrating	\ʕ•ᴥ•ʔ/
 kaomoji playful cat	✧٩(•w•๑)
@@ -529,6 +542,7 @@ kaomoji wake up	٩(ˊ〇ˋ*)و
 kaomoji military salute	(￣^￣)ゞ
 kaomoji furious tableflip	(╯°益°)╯彡┻━┻
 kaomoji tableflip	( ╯°□°)╯ ┻━━┻
+
 
 kaomoji hungry	(￣﹃￣)
 
